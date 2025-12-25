@@ -5636,4 +5636,314 @@ export const TERMS: GenZTerm[] = [
     example: "Lần đầu ra mắt bố mẹ vợ nên đi đứng lóng ngóng.",
     tags: ["action", "funny"],
   },
+  // =================================================================
+  // BỔ SUNG: TỪ LÓNG CHỈ HÀNH ĐỘNG (ACTION SLANG)
+  // =================================================================
+  {
+    term: "Hút máu",
+    definition:
+      "Vắt kiệt tài chính của người khác. Thường dùng để chỉ trích các nhà phát hành game ép nạp thẻ hoặc những người lợi dụng tiền bạc.",
+    variation: ["Vắt máu", "Bào tiền"],
+    example: "NPH game này hút máu quá, sự kiện nào cũng bắt nạp.",
+    tags: ["game", "money", "bad"],
+  },
+  {
+    term: "Bào",
+    definition:
+      "Lợi dụng, moi móc tiền bạc hoặc sức lực của người khác một cách triệt để (Bào tiền, Bào sức).",
+    variation: ["Đào mỏ"],
+    example: "Nó bào người yêu không còn một xu dính túi.",
+    tags: ["money", "bad", "relationship"],
+  },
+  {
+    term: "Gạ",
+    definition:
+      "Rủ rê, mơi gợi, đề nghị một cách thiếu nghiêm túc hoặc có ý đồ đen tối (Gạ tình, Gạ kèo).",
+    variation: ["Gạ gẫm"],
+    example: "Cẩn thận bị nó gạ tình đấy.",
+    tags: ["action", "warning"],
+  },
+  {
+    term: "Sủi",
+    definition:
+      "Biến mất, trốn tránh trách nhiệm hoặc không giữ lời hứa (như bọt khí sủi tăm biến mất).",
+    variation: ["Sủi tăm", "Lặn"],
+    example: "Đến giờ trả nợ là nó sủi mất tăm.",
+    tags: ["action", "bad"],
+  },
+  {
+    term: "Quỵt",
+    definition: "Vay mượn hoặc mua hàng xong cố tình không trả tiền.",
+    variation: ["Bùng tiền"],
+    example: "Nó quỵt tiền trà sữa của tao.",
+    tags: ["money", "bad"],
+  },
+  {
+    term: "Phím",
+    definition:
+      "Mách nước, chỉ điểm, tiết lộ thông tin nội bộ (thường dùng trong chứng khoán: Phím hàng).",
+    variation: ["Mách"],
+    example: "Được ông anh phím cho con mã này ngon lắm.",
+    tags: ["invest", "secret"],
+  },
+  {
+    term: "Lùa",
+    definition:
+      "Dồn ép, dụ dỗ đám đông vào bẫy (thường là lừa đảo tài chính - Lùa gà).",
+    variation: ["Lùa gà"],
+    example: "Chuyên gia tài chính toàn đi lùa gà khóa học.",
+    tags: ["scam", "business"],
+  },
+  {
+    term: "Xả",
+    definition:
+      "Bán tống bán tháo (hàng hóa/cổ phiếu) hoặc trút bỏ cảm xúc tiêu cực (Xả stress, Xả giận).",
+    variation: ["Xả hàng"],
+    example: "Cá mập xả hàng, thị trường đỏ lửa.",
+    tags: ["invest", "action"],
+  },
+  {
+    term: "Ôm",
+    definition:
+      "Giữ chặt không bán (trong đầu tư) hoặc nhận hết việc về mình (Ôm việc, Ôm show).",
+    variation: ["Hold"],
+    example: "Lỡ đu đỉnh rồi giờ phải ôm thôi.",
+    tags: ["invest", "work"],
+  },
+  {
+    term: "Gồng",
+    definition:
+      "Cố gắng chịu đựng khó khăn, thua lỗ hoặc áp lực (Gồng lỗ, Gồng gánh).",
+    variation: ["Chịu đựng"],
+    example: "Tài khoản chia 3 rồi vẫn phải gồng lỗ.",
+    tags: ["invest", "feeling"],
+  },
+  {
+    term: "Soi",
+    definition:
+      "Quan sát kỹ lưỡng, tìm lỗi hoặc theo dõi đời tư người khác (Thánh soi).",
+    variation: ["Stalk", "Moi móc"],
+    example: "Mặc đồ hở tí là bị hàng xóm soi ngay.",
+    tags: ["action", "social"],
+  },
+  {
+    term: "Phán",
+    definition:
+      "Đưa ra nhận xét, dự đoán một cách hùng hồn như đúng rồi (thường là nói mò).",
+    variation: ["Phán xét"],
+    example: "Thầy bói phán năm nay con lấy chồng.",
+    tags: ["action", "talk"],
+  },
+  {
+    term: "Bơm",
+    definition:
+      "Tác động, kích động thêm vào để sự việc căng thẳng hơn (Bơm đểu), hoặc chu cấp tiền bạc (Bơm tiền).",
+    variation: ["Kích đểu"],
+    example: "Mày đừng có bơm đểu cho hai đứa nó cãi nhau nữa.",
+    tags: ["action", "drama"],
+  },
+  {
+    term: "Kích",
+    definition:
+      "Đuổi ra khỏi nhóm (Kick) hoặc khích bác gây chia rẽ (Kích bác).",
+    variation: ["Kick"],
+    example: "Admin kích nó ra khỏi nhóm đi.",
+    tags: ["online", "tech"],
+  },
+  {
+    term: "Múc",
+    definition:
+      "Đánh nhau (Múc nhau) hoặc mua ngay lập tức không chần chừ (Múc luôn).",
+    variation: ["Xúc", "Chiến"],
+    example: "Thích thì múc, ngán gì.",
+    tags: ["action", "aggressive"],
+  },
+  {
+    term: "Hốt",
+    definition:
+      "Lấy đi, mang đi (Hốt trọn), hoặc sợ hãi (Hốt hoảng). Trong tình yêu là 'rước' ai đó về.",
+    variation: ["Rước"],
+    example: "Cuối năm rồi ai hốt tôi đi với.",
+    tags: ["love", "action"],
+  },
+  {
+    term: "Chăn",
+    definition:
+      "Dụ dỗ, nuôi dưỡng mối quan hệ với mục đích lợi dụng (Chăn rau, Chăn chuối).",
+    variation: ["Chăn dắt"],
+    example: "Cao thủ chăn rau sạch là đây.",
+    tags: ["bad", "relationship"],
+  },
+  {
+    term: "Thả",
+    definition:
+      "Bấm biểu tượng cảm xúc (Thả tim, Thả haha) hoặc tung chiêu mơi hàng (Thả thính).",
+    variation: ["React"],
+    example: "Nhớ thả tim cho bài viết của mình nhé.",
+    tags: ["online", "social"],
+  },
+  {
+    term: "Đú",
+    definition:
+      "Bắt chước, đua đòi theo trào lưu một cách mù quáng (Đú trend, Đú đởn).",
+    variation: ["Đua đòi"],
+    example: "Thấy người ta chơi golf cũng đú đi tập dù không biết gì.",
+    tags: ["lifestyle", "negative"],
+  },
+  {
+    term: "Hùa",
+    definition:
+      "Tham gia vào một việc gì đó (thường là ném đá tập thể) theo đám đông mà không có chính kiến.",
+    variation: ["A dua"],
+    example: "Cư dân mạng chỉ giỏi hùa vào chửi thôi.",
+    tags: ["behavior", "negative"],
+  },
+  {
+    term: "Tế",
+    definition:
+      "Đăng bài chửi bới, chỉ trích công khai ai đó liên tục trên mạng xã hội (Tế sống).",
+    variation: ["Chửi"],
+    example: "Nó bị người yêu cũ tế trên Facebook suốt 3 ngày.",
+    tags: ["online", "drama"],
+  },
+  {
+    term: "Triệu hồi",
+    definition: "Tag tên gọi ai đó xuất hiện vào bài viết (Summon).",
+    variation: ["Gọi hồn"],
+    example: "Triệu hồi các thánh photoshop vào giúp ca này.",
+    tags: ["online", "funny"],
+  },
+  {
+    term: "Xiên",
+    definition: "Đâm, tấn công (từ lóng giang hồ, dùng để dọa dẫm hài hước).",
+    variation: ["Đâm"],
+    example: "Trả tiền đây không tao xiên đấy.",
+    tags: ["action", "threat"],
+  },
+  {
+    term: "Cày",
+    definition:
+      "Làm việc chăm chỉ, nỗ lực làm đi làm lại để đạt mục tiêu (Cày phim, Cày game, Cày cuốc).",
+    variation: ["Grind"],
+    example: "Thức đêm cày hết bộ phim này.",
+    tags: ["work", "hobby"],
+  },
+  {
+    term: "Lật mặt",
+    definition:
+      "Thay đổi thái độ nhanh chóng, phản bội (Lật mặt như lật bánh tráng).",
+    variation: ["Trở mặt"],
+    example: "Vừa mượn được tiền xong là lật mặt ngay.",
+    tags: ["attitude", "bad"],
+  },
+  {
+    term: "Đâm sau lưng",
+    definition: "Hãm hại ngầm người tin tưởng mình.",
+    variation: ["Backstab"],
+    example: "Bạn thân mà đi đâm sau lưng nhau thế à.",
+    tags: ["attitude", "bad"],
+  },
+  {
+    term: "Dìm",
+    definition:
+      "Cố tình hạ thấp uy tín, danh dự hoặc dìm hàng ai đó để họ không ngóc đầu lên được.",
+    variation: ["Dìm hàng"],
+    example: "Nó chuyên đi dìm đồng nghiệp để lấy lòng sếp.",
+    tags: ["action", "toxic"],
+  },
+  {
+    term: "Nâng",
+    definition: "Tâng bốc, lăng xê ai đó lên mây (Nâng bi).",
+    variation: ["Tâng bốc"],
+    example: "Bài báo này nâng em ấy quá đà rồi.",
+    tags: ["action", "pr"],
+  },
+  {
+    term: "Bợ",
+    definition: "Nịnh nọt, luồn cúi (Bợ đít).",
+    variation: ["Nịnh"],
+    example: "Thánh bợ đỡ của năm.",
+    tags: ["attitude", "negative"],
+  },
+  {
+    term: "Húp",
+    definition:
+      "Ăn trọn, chiếm đoạt được một cách ngon lành (Húp trọn, Húp sò - thô tục).",
+    variation: ["Xơi"],
+    example: "Kèo thơm thế này phải húp lẹ.",
+    tags: ["slang", "benefit"],
+  },
+  {
+    term: "Vợt",
+    definition: "Nhanh tay mua được hoặc bắt được khách/cơ hội.",
+    variation: ["Bắt khách"],
+    example: "Sale vợt khách ngay tại cửa.",
+    tags: ["sale", "action"],
+  },
+  {
+    term: "Đẩy",
+    definition: "Gán ghép (Đẩy thuyền) hoặc đùn đẩy trách nhiệm (Đẩy việc).",
+    variation: ["Ship"],
+    example: "Sếp toàn đẩy việc khó cho nhân viên.",
+    tags: ["work", "action"],
+  },
+  {
+    term: "Cõng",
+    definition: "Gánh vác thay cho người khác (Cõng team, Cõng nợ).",
+    variation: ["Gánh"],
+    example: "Một mình tao cõng cả team này.",
+    tags: ["game", "work"],
+  },
+  {
+    term: "Đì",
+    definition:
+      "Chèn ép, gây khó dễ cho người dưới quyền khiến họ không phát triển được.",
+    variation: ["Trù dập"],
+    example: "Vào công ty bị sếp đì cho sói trán.",
+    tags: ["work", "toxic"],
+  },
+  {
+    term: "Hành",
+    definition: "Làm khổ, bắt làm đi làm lại, gây mệt mỏi (Hành ra bã).",
+    variation: ["Hành hạ"],
+    example: "Khách hàng hành tao sửa thiết kế 10 lần.",
+    tags: ["work", "tired"],
+  },
+  {
+    term: "Vả",
+    definition:
+      "Tát (nghĩa đen) hoặc phản bác lại lập luận của ai đó cực gắt (Vả mặt).",
+    variation: ["Tát"],
+    example: "Sự thật vả vào mặt những kẻ sống ảo.",
+    tags: ["action", "drama"],
+  },
+  {
+    term: "Dằn mặt",
+    definition: "Hành động cảnh cáo, đe dọa để đối phương sợ.",
+    variation: ["Cảnh cáo"],
+    example: "Nó dẫn đàn em đến dằn mặt tình địch.",
+    tags: ["action", "threat"],
+  },
+  {
+    term: "Úp bô",
+    definition:
+      "Lừa đảo, bán lại tài sản giá cao cho người đến sau rồi bỏ chạy (thường dùng trong Crypto/Chứng khoán).",
+    variation: ["Đổ vỏ"],
+    example: "Dự án này chuyên đi úp bô nhà đầu tư.",
+    tags: ["scam", "invest"],
+  },
+  {
+    term: "Quăng miếng",
+    definition: "Thả ra những câu đùa, câu thoại hài hước để gây cười.",
+    variation: ["Thả miếng"],
+    example: "Diễn viên hài quăng miếng nào chất miếng đó.",
+    tags: ["funny", "action"],
+  },
+  {
+    term: "Rớt não",
+    definition: "Quên mang não, hành động ngu ngốc thiếu suy nghĩ.",
+    variation: ["Tụt IQ"],
+    example: "Mỗi lần gặp trai đẹp là tao tự động rớt não.",
+    tags: ["funny", "state"],
+  },
 ];
