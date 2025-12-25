@@ -5474,4 +5474,166 @@ export const TERMS: GenZTerm[] = [
     example: "Yêu đương gì tầm này, mệt mỏi lắm.",
     tags: ["camthan", "mood"],
   },
+  // =================================================================
+  // BỔ SUNG: TỪ LÁY MIÊU TẢ & MỨC ĐỘ (REDUPLICATIVE WORDS)
+  // =================================================================
+  {
+    term: "Na ná",
+    definition:
+      "Gần giống, tương tự nhau nhưng không hoàn toàn y hệt (mức độ thấp hơn 'giống').",
+    variation: ["Tương tự"],
+    example: "Hai cái áo này kiểu dáng na ná nhau, khó phân biệt quá.",
+    tags: ["nhanxet", "daily"],
+  },
+  {
+    term: "Kha khá",
+    definition:
+      "Một lượng tương đối nhiều, đủ dùng hoặc mức độ khá tốt (tốt hơn mức trung bình).",
+    variation: ["Khá nhiều"],
+    example: "Dạo này kiếm được cũng kha khá, đủ tiền đi du lịch.",
+    tags: ["nhanxet", "quantity"],
+  },
+  {
+    term: "Giông giống",
+    definition:
+      "Hơi giống, có nét tương đồng nhưng chưa khẳng định là giống hệt.",
+    variation: ["Hơi giống"],
+    example: "Nhìn mặt nó giông giống người yêu cũ của tao.",
+    tags: ["nhanxet", "comparison"],
+  },
+  {
+    term: "Hao hao",
+    definition:
+      "Gợi nhớ đến một hình ảnh nào đó vì có nét tương đồng (thường dùng cho khuôn mặt/ngoại hình).",
+    variation: ["Giống"],
+    example: "Con bé đó có nét hao hao giống diễn viên Hàn Quốc.",
+    tags: ["nhanxet", "look"],
+  },
+  {
+    term: "Ngờ ngợ",
+    definition:
+      "Cảm giác thấy quen quen nhưng chưa nhớ ra chính xác là ai hay là gì.",
+    variation: ["Quen quen"],
+    example: "Nhìn dáng đi ngờ ngợ, hình như gặp ở đâu rồi.",
+    tags: ["camxuc", "memory"],
+  },
+  {
+    term: "Tàm tạm",
+    definition:
+      "Ở mức trung bình, chấp nhận được, không quá tốt cũng không quá tệ (thường dùng để trả lời xã giao).",
+    variation: ["Bình thường"],
+    example: "Công việc dạo này thế nào? - Cũng tàm tạm.",
+    tags: ["daily", "status"],
+  },
+  {
+    term: "Sương sương",
+    definition:
+      "Một chút, sơ sơ, nhẹ nhàng (thực tế giới trẻ hay dùng với ý nghĩa ngược lại để khiêm tốn).",
+    variation: ["Sơ sơ"],
+    example: "Uống sương sương 10 chai bia thôi.",
+    tags: ["daily", "slang"],
+  },
+  {
+    term: "Xinh xẻo",
+    definition:
+      "Xinh xắn, dễ thương. Từ láy biến âm tạo cảm giác trẻ trung, 'cute' hơn từ gốc.",
+    variation: ["Xinh"],
+    example: "Cái váy này nhìn xinh xẻo ghê.",
+    tags: ["khen", "beauty"],
+  },
+  {
+    term: "Ngon nghẻ",
+    definition:
+      "Mọi thứ đã ổn thỏa, đâu vào đấy, hoặc chỉ đồ vật/người trông rất hấp dẫn/tốt.",
+    variation: ["Ngon lành"],
+    example: "Dự án chạy ngon nghẻ rồi, giờ chỉ việc ngồi lượm tiền.",
+    tags: ["khen", "status"],
+  },
+  {
+    term: "Hâm hâm",
+    definition:
+      "Tính khí thất thường, hơi dở hơi, lúc vui lúc buồn khó chiều (thường dùng trêu đùa bạn bè/người yêu).",
+    variation: ["Dở hơi"],
+    example: "Đừng chấp nó, tính nó hâm hâm thế đấy.",
+    tags: ["nhanxet", "personality"],
+  },
+  {
+    term: "Ngơ ngơ",
+    definition:
+      "Trạng thái mất tập trung, không hiểu chuyện gì đang xảy ra, hoặc ngây ngô.",
+    variation: ["Ngáo ngơ"],
+    example: "Sáng chưa uống cafe mặt cứ ngơ ngơ như bò đội nón.",
+    tags: ["trangthai", "funny"],
+  },
+  {
+    term: "Lơ tơ mơ",
+    definition:
+      "Không hiểu rõ vấn đề, mơ hồ, hoặc trình độ non kém, không nắm chắc.",
+    variation: ["Lơ mơ"],
+    example: "Học hành lơ tơ mơ thế này thì thi trượt chắc.",
+    tags: ["nhanxet", "study"],
+  },
+  {
+    term: "Lai rai",
+    definition:
+      "Làm việc gì đó từ từ, rải rác, kéo dài (đặc biệt phổ biến khi nói về việc đi nhậu).",
+    variation: ["Nhậu nhẹt"],
+    example: "Cuối tuần anh em mình ra quán ngồi lai rai tí nhé.",
+    tags: ["lifestyle", "action"],
+  },
+  {
+    term: "Rủng rỉnh",
+    definition:
+      "Có nhiều tiền trong túi (thường là mới nhận lương hoặc thưởng), cảm giác thoải mái chi tiêu.",
+    variation: ["Dư dả"],
+    example: "Đang rủng rỉnh, đi shopping không tao bao?",
+    tags: ["money", "happy"],
+  },
+  {
+    term: "Bâng quơ",
+    definition:
+      "Nói vu vơ, không nhắm vào ai cụ thể hoặc không có chủ đích rõ ràng, nhưng đôi khi làm người nghe chột dạ.",
+    variation: ["Vu vơ"],
+    example: "Nó đăng status bâng quơ mà cả đám nhột.",
+    tags: ["action", "online"],
+  },
+  {
+    term: "Thang thoáng",
+    definition:
+      "Thoang thoảng. Mùi hương nhẹ nhàng hoặc một ký ức lướt qua nhanh.",
+    variation: ["Thoang thoảng"],
+    example: "Có mùi nước hoa thang thoáng đâu đây.",
+    tags: ["camgiac", "daily"],
+  },
+  {
+    term: "Lanh chanh",
+    definition:
+      "Vội vàng, hấp tấp, muốn thể hiện nhưng thường làm hỏng việc hoặc gây phiền.",
+    variation: ["Cầm đèn chạy trước ô tô"],
+    example: "Chưa nói xong đã cãi, lanh chanh vừa thôi.",
+    tags: ["nhanxet", "bad"],
+  },
+  {
+    term: "Hì hục",
+    definition: "Cặm cụi làm việc gì đó vất vả, tốn sức.",
+    variation: ["Cặm cụi"],
+    example: "Nó hì hục sửa cái xe cả buổi chiều mà không xong.",
+    tags: ["action", "work"],
+  },
+  {
+    term: "Tưng tửng",
+    definition:
+      "Tính cách hơi tưng tưng, bất cần đời, vui vẻ lạ thường nhưng đôi khi hơi 'quái'.",
+    variation: ["Tưng tưng"],
+    example: "Con bé đó tính tưng tửng nhưng tốt bụng lắm.",
+    tags: ["nhanxet", "personality"],
+  },
+  {
+    term: "Lóng ngóng",
+    definition:
+      "Vụng về, chân tay thừa thãi, không biết phải làm sao (thường do run hoặc chưa quen).",
+    variation: ["Vụng về"],
+    example: "Lần đầu ra mắt bố mẹ vợ nên đi đứng lóng ngóng.",
+    tags: ["action", "funny"],
+  },
 ];
