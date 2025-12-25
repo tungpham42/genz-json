@@ -6790,4 +6790,227 @@ export const TERMS: GenZTerm[] = [
     example: "Làm Travel Blogger sướng thật, được đi chơi suốt.",
     tags: ["job", "travel"],
   },
+  // =================================================================
+  // BỔ SUNG: TÍNH TỪ CẢM THÁN & TỪ LÁY CƯỜNG ĐIỆU (INTENSIVE ADJECTIVES)
+  // =================================================================
+  {
+    term: "Hót hòn họt",
+    definition:
+      "Rất nóng, cực kỳ nổi tiếng, đang là tâm điểm chú ý (nhấn mạnh của 'Hot').",
+    variation: ["Nóng bỏng tay"],
+    example: "Mẫu áo này đang hót hòn họt trên TikTok.",
+    tags: ["trend", "khen", "rhyme"],
+  },
+  {
+    term: "Ngon lành cành đào",
+    definition:
+      "Rất ngon, rất tốt, hoặc mọi việc đã được giải quyết êm đẹp, hoàn hảo.",
+    variation: ["Ngon ơ"],
+    example: "Dự án đã chạy ngon lành cành đào rồi sếp ơi.",
+    tags: ["khen", "status", "rhyme"],
+  },
+  {
+    term: "Xịn xò con bò",
+    definition:
+      "Cực kỳ xịn, chất lượng cao (cách nói vần điệu cho vui tai của 'Xịn xò').",
+    variation: ["Xịn đét"],
+    example: "Đôi giày mới mua nhìn xịn xò con bò quá.",
+    tags: ["khen", "shopping", "rhyme"],
+  },
+  {
+    term: "Tươi không cần tưới",
+    definition:
+      "Rất tươi tắn, vui vẻ, rạng rỡ (thường dùng khen thần thái hoặc nhan sắc).",
+    variation: ["Tươi rói"],
+    example: "Hôm nay gặp chuyện gì mà mặt tươi không cần tưới thế?",
+    tags: ["khen", "beauty", "idiom"],
+  },
+  {
+    term: "Buồn thiu",
+    definition: "Rất buồn, mặt xị xuống, không có chút sức sống nào.",
+    variation: ["Buồn thiu thỉu thiu"],
+    example: "Bị crush bơ nên mặt nó buồn thiu cả ngày.",
+    tags: ["camxuc", "sad"],
+  },
+  {
+    term: "Chán òm",
+    definition: "Rất chán, tẻ nhạt, không có gì thú vị.",
+    variation: ["Chán phèo"],
+    example: "Bộ phim này nội dung chán òm, phí tiền vé.",
+    tags: ["nhanxet", "boring"],
+  },
+  {
+    term: "Dễ ẹc",
+    definition: "Cực kỳ dễ, không tốn chút công sức nào.",
+    variation: ["Dễ ợt"],
+    example: "Bài toán này dễ ẹc, nhắm mắt cũng làm được.",
+    tags: ["nhanxet", "level"],
+  },
+  {
+    term: "Khó nhằn",
+    definition:
+      "Rất khó, khó giải quyết (như một món ăn dai nhách khó nhai/nuốt).",
+    variation: ["Khoai"],
+    example: "Khách hàng này khó nhằn lắm, cẩn thận đấy.",
+    tags: ["nhanxet", "level"],
+  },
+  {
+    term: "Mới toanh",
+    definition: "Hoàn toàn mới, chưa qua sử dụng, còn nguyên tem mác.",
+    variation: ["Mới coong"],
+    example: "Xe mới toanh chưa bóc nilon.",
+    tags: ["nhanxet", "shopping"],
+  },
+  {
+    term: "Cũ mèm",
+    definition: "Rất cũ, đã lỗi thời hoặc nát bươm.",
+    variation: ["Cũ rích"],
+    example: "Chuyện cũ mèm rồi mà còn nhắc lại.",
+    tags: ["nhanxet", "old"],
+  },
+  {
+    term: "Xa tít mù khơi",
+    definition: "Rất xa, không nhìn thấy điểm đến (nhấn mạnh khoảng cách).",
+    variation: ["Xa tít tắp"],
+    example: "Nhà nó ở xa tít mù khơi, đi mỏi cả chân.",
+    tags: ["daily", "distance"],
+  },
+  {
+    term: "Gần xịt",
+    definition: "Rất gần, ngay sát bên cạnh.",
+    variation: ["Ngay đây"],
+    example: "Trường học gần xịt, đi bộ 5 phút là tới.",
+    tags: ["daily", "distance"],
+  },
+  {
+    term: "Lạ hoắc",
+    definition: "Hoàn toàn xa lạ, chưa từng gặp bao giờ (nhấn mạnh hơn 'Lạ').",
+    variation: ["Lạ huơ"],
+    example: "Nhìn số điện thoại lạ hoắc, không dám nghe máy.",
+    tags: ["nhanxet", "unknown"],
+  },
+  {
+    term: "Tùm lum tà la",
+    definition:
+      "Lộn xộn, rối rắm, đủ thứ chuyện linh tinh (biến âm từ 'Tùm lum').",
+    variation: ["Tùm lum"],
+    example: "Phòng ốc bừa bộn tùm lum tà la.",
+    tags: ["nhanxet", "messy"],
+  },
+  {
+    term: "Banh chành",
+    definition: "Tan nát, hỏng bét, không còn nguyên vẹn.",
+    variation: ["Banh ta lông"],
+    example: "Cái bánh kem bị rơi nát banh chành.",
+    tags: ["trangthai", "fail"],
+  },
+  {
+    term: "Lồng lộn",
+    definition:
+      "Trang điểm, ăn mặc cầu kỳ quá mức, nổi bần bật (đôi khi mang ý khen 'chặt chém', đôi khi là chê làm lố).",
+    variation: ["Ô dề"],
+    example: "Đi đám cưới mà bả lên đồ lồng lộn hơn cả cô dâu.",
+    tags: ["fashion", "attitude"],
+  },
+  {
+    term: "Tơi tả",
+    definition: "Rách nát, thê thảm, bị hành hạ đến mức không còn hình người.",
+    variation: ["Te tua"],
+    example: "Chạy deadline xong nhìn ai cũng tơi tả.",
+    tags: ["trangthai", "tired"],
+  },
+  {
+    term: "Đắt lòi kèn",
+    definition: "Rất đắt, giá cắt cổ (cách nói suồng sã than vãn về giá cả).",
+    variation: ["Đắt cắt cổ"],
+    example: "Vào quán bar uống chai nước suối đắt lòi kèn.",
+    tags: ["money", "price"],
+  },
+  {
+    term: "Rẻ bèo",
+    definition: "Rất rẻ, rẻ như cho.",
+    variation: ["Rẻ thối"],
+    example: "Quần áo sale rẻ bèo, mua nhanh kẻo hết.",
+    tags: ["money", "price"],
+  },
+  {
+    term: "Đói meo râu",
+    definition: "Rất đói, đói đến mức kiệt sức (mèo râu -> meo râu?).",
+    variation: ["Đói rã ruột"],
+    example: "Làm việc từ sáng đến giờ đói meo râu rồi.",
+    tags: ["camgiac", "food"],
+  },
+  {
+    term: "No căng rốn",
+    definition: "Ăn quá no, bụng căng tròn.",
+    variation: ["No nê"],
+    example: "Ăn buffet xong no căng rốn, không thở nổi.",
+    tags: ["camgiac", "food"],
+  },
+  {
+    term: "Mỏng dính",
+    definition: "Rất mỏng, mỏng như tờ giấy.",
+    variation: ["Mỏng lét"],
+    example: "Quyển sách này mỏng dính, đọc 1 tiếng là xong.",
+    tags: ["nhanxet", "size"],
+  },
+  {
+    term: "Dày cộp",
+    definition: "Rất dày, nặng nề.",
+    variation: ["Dày bịch"],
+    example: "Kính cận dày cộp như đít chai.",
+    tags: ["nhanxet", "size"],
+  },
+  {
+    term: "Trắng bóc",
+    definition: "Rất trắng (thường dùng tả làn da), trắng không tì vết.",
+    variation: ["Trắng như trứng gà bóc"],
+    example: "Da em bé trắng bóc nhìn muốn cắn.",
+    tags: ["beauty", "color"],
+  },
+  {
+    term: "Đen thui lui",
+    definition: "Rất đen, tối om, hoặc xui xẻo tột độ.",
+    variation: ["Đen kịt"],
+    example: "Tương lai đen thui lui như tiền đồ chị Dậu.",
+    tags: ["beauty", "color", "xui"],
+  },
+  {
+    term: "Im thin thít",
+    definition:
+      "Im lặng tuyệt đối, không dám ho he một tiếng (thường do sợ hãi).",
+    variation: ["Im re"],
+    example: "Sếp vừa vào là cả phòng im thin thít.",
+    tags: ["action", "quiet"],
+  },
+  {
+    term: "Chắc nịch",
+    definition: "Rất chắc chắn, khẳng định 100% không thay đổi.",
+    variation: ["Chắc cốp"],
+    example: "Nó hứa chắc nịch là sẽ trả tiền đúng hạn.",
+    tags: ["attitude", "sure"],
+  },
+  {
+    term: "Rối nùi",
+    definition:
+      "Rất rối rắm, lộn xộn, không tìm ra đầu mối (nghĩa đen là mớ dây rối, nghĩa bóng là tâm trí/sự việc).",
+    variation: ["Rối tinh rối mù"],
+    example: "Chuyện tình cảm của nó rối nùi như canh hẹ.",
+    tags: ["trangthai", "confused"],
+  },
+  {
+    term: "Gầy trơ xương",
+    definition: "Quá gầy, nhìn thiếu sức sống.",
+    variation: ["Ốm nhom"],
+    example: "Dạo này làm việc nhiều quá nhìn gầy trơ xương.",
+    tags: ["beauty", "body"],
+  },
+  {
+    term: "Béo núc ních",
+    definition:
+      "Rất béo, mũm mĩm (thường dùng tả trẻ con hoặc thú cưng đáng yêu).",
+    variation: ["Ú nu"],
+    example: "Con mèo nhà tao béo núc ních, đi không nổi.",
+    tags: ["beauty", "body"],
+  },
 ];
