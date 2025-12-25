@@ -5303,4 +5303,175 @@ export const TERMS: GenZTerm[] = [
     example: "Trông phong cách lãng tử (lữ tạng) ghê.",
     tags: ["noilai", "style"],
   },
+  // =================================================================
+  // BỔ SUNG: CẢM THÁN, CÂU CỬA MIỆNG & THÀNH NGỮ (EXCLAMATIONS & IDIOMS)
+  // =================================================================
+  {
+    term: "Con nhà người ta",
+    definition:
+      "Nhân vật huyền thoại, giỏi toàn diện, không có thật nhưng luôn được bố mẹ lôi ra để so sánh và chê bai con mình.",
+    variation: ["CNNT"],
+    example: "Nhìn con nhà người ta vừa học giỏi vừa ngoan, còn mày thì...",
+    tags: ["family", "comparison", "daily"],
+  },
+  {
+    term: "Quào",
+    definition:
+      "Wow. Từ cảm thán thể hiện sự ngạc nhiên, trầm trồ (phiên âm tiếng Việt của Wow).",
+    variation: ["Wao", "Wow"],
+    example: "Quào, món quà này xịn xò quá!",
+    tags: ["camthan", "daily"],
+  },
+  {
+    term: "Ủa alo",
+    definition:
+      "Câu cảm thán dùng khi cảm thấy khó hiểu, ngỡ ngàng hoặc muốn chất vấn ai đó về sự vô lý của họ.",
+    variation: ["Ủa", "Alo"],
+    example: "Ủa alo? Sao hẹn 7h mà 8h chưa tới?",
+    tags: ["camthan", "question"],
+  },
+  {
+    term: "Gì vậy bà nội",
+    definition:
+      "Câu nói viral trên TikTok (bắt nguồn từ một video hài), dùng để thể hiện sự khó hiểu hoặc 'cạn lời' trước hành động kỳ quặc của ai đó.",
+    variation: ["Gì z bà nụi"],
+    example: "Đang yên đang lành tự nhiên hát ầm lên, gì vậy bà nội?",
+    tags: ["meme", "funny", "reaction"],
+  },
+  {
+    term: "Ngỡ ngàng ngơ ngác bật ngửa",
+    definition:
+      "Câu nói viral mô tả trạng thái đi từ bất ngờ này đến bất ngờ khác, sốc đến mức không đứng vững.",
+    variation: ["Ngỡ ngàng"],
+    example: "Kết quả trận đấu khiến fan hâm mộ ngỡ ngàng ngơ ngác bật ngửa.",
+    tags: ["meme", "trend", "shock"],
+  },
+  {
+    term: "Ôi con sông Quê",
+    definition:
+      "Câu cảm thán dùng khi gặp tình huống xấu hổ, quê độ, muốn tìm cái lỗ để chui xuống (lấy từ bài hát 'Quê hương' nhưng chế lại).",
+    variation: ["Quê chữ ê kéo dài"],
+    example: "Vẫy tay chào nhầm người lạ, ôi con sông Quê.",
+    tags: ["meme", "funny", "shame"],
+  },
+  {
+    term: "Ôi thần linh ơi",
+    definition:
+      "Câu than vãn hoặc ngạc nhiên tột độ (thường nghe trong phim Ấn Độ lồng tiếng), mang sắc thái hài hước.",
+    variation: ["Thần linh ơi"],
+    example: "Ôi thần linh ơi, sao bài tập nhiều thế này?",
+    tags: ["camthan", "funny"],
+  },
+  {
+    term: "Xời",
+    definition:
+      "Từ đệm thể hiện sự tự tin thái quá, hoặc coi thường việc gì đó là quá dễ dàng.",
+    variation: ["Xời tuyệt vời"],
+    example: "Xời, bài này tao làm trong 5 phút là xong.",
+    tags: ["camthan", "attitude"],
+  },
+  {
+    term: "Muỗi",
+    definition:
+      "Chuyện nhỏ, không đáng kể (như con muỗi đốt inox). Thể hiện sự tự tin giải quyết vấn đề.",
+    variation: ["Chuyện nhỏ"],
+    example: "Khó khăn này chỉ là muỗi thôi.",
+    tags: ["slang", "attitude"],
+  },
+  {
+    term: "Ai mượn",
+    definition:
+      "Câu nói phũ phàng, dùng để từ chối sự quan tâm hoặc ý kiến của người khác mà mình không cần.",
+    variation: ["Ai hỏi"],
+    example: "Tự nhiên đi khuyên người ta chia tay, ai mượn?",
+    tags: ["reaction", "savage"],
+  },
+  {
+    term: "Ai rảnh",
+    definition:
+      "Từ chối làm việc gì đó vì thấy vô bổ, hoặc mỉa mai những người làm chuyện bao đồng.",
+    variation: ["Rảnh đâu"],
+    example: "Đi cãi nhau với nó làm gì, ai rảnh?",
+    tags: ["reaction", "attitude"],
+  },
+  {
+    term: "Thôi xong",
+    definition:
+      "Câu than thở khi nhận ra mình vừa mắc sai lầm hoặc gặp chuyện không may, mọi thứ đã đổ bể.",
+    variation: ["Toang hẳn"],
+    example: "Thôi xong, gửi nhầm tin nhắn cho sếp rồi.",
+    tags: ["camthan", "fail"],
+  },
+  {
+    term: "Lạy hồn",
+    definition:
+      "Sợ hãi hoặc quá mệt mỏi với ai đó, muốn họ tha cho mình (nghĩa bóng).",
+    variation: ["Lạy cụ"],
+    example: "Mày hát dở quá, lạy hồn đừng hát nữa.",
+    tags: ["camthan", "begging"],
+  },
+  {
+    term: "Cay",
+    definition:
+      "Cảm giác ức chế, tức tối nhưng không làm gì được (thường dùng trong game hoặc khi bị trêu chọc).",
+    variation: ["Cay cú"],
+    example: "Thua trận này cay thật sự.",
+    tags: ["camxuc", "game"],
+  },
+  {
+    term: "Tuyệt vời ông mặt trời",
+    definition:
+      "Câu khen ngợi theo kiểu vần điệu, cũ nhưng vẫn được dùng để biểu đạt sự vui vẻ hoặc mỉa mai nhẹ.",
+    variation: ["Tuyệt vời"],
+    example: "Được nghỉ làm sớm, tuyệt vời ông mặt trời.",
+    tags: ["khen", "happy"],
+  },
+  {
+    term: "Cả một bầu trời",
+    definition:
+      "Cách nói phóng đại. Ví dụ 'Cả một bầu trời tư cách' (mỉa mai), 'Cả một bầu trời thương nhớ'.",
+    variation: ["Bầu trời"],
+    example: "Nó là cả một bầu trời hài hước.",
+    tags: ["idiom", "description"],
+  },
+  {
+    term: "Thua",
+    definition:
+      "Bó tay, không còn gì để nói, hoặc chấp nhận thất bại trước sự vô lý/khó đỡ của ai đó.",
+    variation: ["Chịu"],
+    example: "Nói đến thế mà không hiểu thì thua.",
+    tags: ["reaction", "giveup"],
+  },
+  {
+    term: "Hết nước chấm",
+    definition:
+      "Quá tuyệt vời, không còn gì để chê (thường dùng khen đồ ăn hoặc gái xinh). (Đã có, bổ sung ví dụ khác).",
+    variation: ["Hết sảy con bà bảy"],
+    example: "Em này body đúng là hết nước chấm.",
+    tags: ["khen", "slang"],
+  },
+  {
+    term: "Được của ló",
+    definition:
+      "Được của nó (nói ngọng). Khen ngợi cái gì đó rất tốt, rất xịn.",
+    variation: ["Được đấy"],
+    example: "Con xe này nhìn được của ló đấy.",
+    tags: ["khen", "funny"],
+  },
+  {
+    term: "Hờn",
+    definition:
+      "Giận dỗi (nhưng ở mức độ nhẹ, kiểu nũng nịu hoặc trách móc vu vơ).",
+    variation: ["Dỗi"],
+    example: "Không mua trà sữa cho em là em hờn cả thế giới.",
+    tags: ["camxuc", "cute"],
+  },
+  {
+    term: "Mệt mỏi",
+    definition:
+      "Không chỉ là mệt về thể xác, mà thường dùng để than vãn về sự rắc rối, drama của cuộc đời.",
+    variation: ["Mệt"],
+    example: "Yêu đương gì tầm này, mệt mỏi lắm.",
+    tags: ["camthan", "mood"],
+  },
 ];
