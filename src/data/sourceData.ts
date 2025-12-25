@@ -5946,4 +5946,365 @@ export const TERMS: GenZTerm[] = [
     example: "Mỗi lần gặp trai đẹp là tao tự động rớt não.",
     tags: ["funny", "state"],
   },
+  // =================================================================
+  // BỔ SUNG: TỪ GHÉP CHỈ KIỂU NGƯỜI & PHONG CÁCH (CHARACTER TYPES)
+  // =================================================================
+  {
+    term: "Good boy",
+    definition:
+      "Chàng trai ngoan hiền, tử tế, chung thủy (thường bị cho là nhạt nhẽo). Ngược lại với Bad boy.",
+    variation: ["Trai ngoan"],
+    example: "Thời nay Good boy toàn bị friendzone thôi.",
+    tags: ["relationship", "type"],
+  },
+  {
+    term: "Soft boy",
+    definition:
+      "Chàng trai có phong cách nhẹ nhàng, thư sinh, nhạy cảm và có gu thẩm mỹ (hơi hướng phi giới tính).",
+    variation: ["Trai dịu dàng"],
+    example: "Gu của tao là mấy anh soft boy mặc áo len.",
+    tags: ["style", "trend"],
+  },
+  {
+    term: "Warm boy",
+    definition:
+      "Chàng trai ấm áp, biết quan tâm chăm sóc người khác tinh tế (thường là nam phụ trong phim).",
+    variation: ["Trai ấm áp"],
+    example: "Anh ấy đúng chuẩn warm boy, luôn mang áo khoác cho mình.",
+    tags: ["relationship", "type"],
+  },
+  {
+    term: "Rich kid",
+    definition:
+      "Con nhà giàu, sinh ra ở vạch đích, tiêu tiền không tiếc tay và có cuộc sống sang chảnh.",
+    variation: ["Cậu ấm cô chiêu"],
+    example: "Hội rich kid check-in du thuyền sang chảnh.",
+    tags: ["lifestyle", "money"],
+  },
+  {
+    term: "Nepo Baby",
+    definition:
+      "Con ông cháu cha. Những người nổi tiếng hoặc thành công nhờ danh tiếng và quan hệ của bố mẹ (Nepotism - Gia đình trị).",
+    variation: ["COCC"],
+    example: "Cô người mẫu đó là Nepo Baby, bố là đạo diễn nổi tiếng.",
+    tags: ["showbiz", "social"],
+  },
+  {
+    term: "Drama queen",
+    definition:
+      "Nữ hoàng kịch tính. Người hay làm quá mọi chuyện, thích tạo drama hoặc phản ứng thái quá để gây chú ý.",
+    variation: ["Bà hoàng drama"],
+    example: "Chuyện bé xé ra to, đúng là drama queen.",
+    tags: ["personality", "drama"],
+  },
+  {
+    term: "Gym rat",
+    definition:
+      "Người nghiện tập gym, dành phần lớn thời gian ở phòng tập thể hình.",
+    variation: ["Dân gym"],
+    example: "Người yêu tao là gym rat, ngày nào cũng đẩy tạ.",
+    tags: ["lifestyle", "hobby"],
+  },
+  {
+    term: "Office Siren",
+    definition:
+      "Phong cách thời trang công sở nhưng quyến rũ, gợi cảm (kính gọng, áo sơ mi bó...). Trend cực hot năm 2024.",
+    variation: ["Nàng thơ công sở"],
+    example: "Mặc đồ kiểu Office Siren đi làm cho sếp lác mắt.",
+    tags: ["fashion", "trend"],
+  },
+  {
+    term: "Sigma Male",
+    definition:
+      "Đàn ông ưu tú, bản lĩnh, thành công nhưng thích đơn độc, không hùa theo đám đông (Sói cô độc). Biểu tượng của sự ngầu lạnh lùng.",
+    variation: ["Sói cô độc"],
+    example: "Sống như một Sigma Male, không cần quan tâm định kiến.",
+    tags: ["lifestyle", "meme"],
+  },
+  {
+    term: "Alpha Male",
+    definition:
+      "Đàn ông thống trị, thủ lĩnh, có tố chất lãnh đạo nhưng đôi khi gia trưởng và thích kiểm soát.",
+    variation: ["Đàn ông alpha"],
+    example: "Tư duy Alpha Male đôi khi hơi độc hại.",
+    tags: ["lifestyle", "type"],
+  },
+  {
+    term: "Bestie",
+    definition: "Best friend. Bạn thân nhất, bạn chí cốt.",
+    variation: ["Bạn thân"],
+    example: "Đi du lịch với bestie là vui nhất.",
+    tags: ["friend", "xungho"],
+  },
+  {
+    term: "Homie",
+    definition: "Chiến hữu, anh em cây khế, bạn bè thân thiết trong hội nhóm.",
+    variation: ["Anh em"],
+    example: "Tối nay đi nhậu với mấy homie.",
+    tags: ["friend", "xungho"],
+  },
+  {
+    term: "Soulmate",
+    definition:
+      "Tri kỷ. Người thấu hiểu tâm hồn mình nhất (có thể là người yêu hoặc bạn bè).",
+    variation: ["Bạn tâm giao"],
+    example: "Tìm được soulmate giữa biển người thật khó.",
+    tags: ["relationship", "deep"],
+  },
+  {
+    term: "Partner",
+    definition:
+      "Đối tác. Cách gọi người yêu/vợ/chồng một cách hiện đại, tôn trọng sự bình đẳng.",
+    variation: ["Bạn đời"],
+    example: "Đây là partner của mình.",
+    tags: ["relationship", "xungho"],
+  },
+  {
+    term: "Real love",
+    definition:
+      "Tình yêu đích thực, hoặc người yêu chính thức (không phải qua đường).",
+    variation: ["Tình thật"],
+    example: "Kiếm real love trên Tinder như mò kim đáy bể.",
+    tags: ["love", "goal"],
+  },
+  {
+    term: "Cyber bully",
+    definition:
+      "Kẻ bắt nạt trên mạng. Dùng lời lẽ tấn công, lăng mạ người khác online.",
+    variation: ["Anh hùng bàn phím"],
+    example: "Vấn nạn cyber bully đang rất đáng báo động.",
+    tags: ["bad", "online"],
+  },
+  {
+    term: "Camera man",
+    definition:
+      "Người quay phim. Meme 'Camera man chạy bằng cơm' ám chỉ những người quay phim có kỹ năng thượng thừa, chạy nhanh hơn cả vận động viên để bắt khoảnh khắc.",
+    variation: ["Anh quay phim"],
+    example: "Tốc độ của camera man luôn là một bí ẩn.",
+    tags: ["meme", "job"],
+  },
+  {
+    term: "Final Boss",
+    definition:
+      "Trùm cuối. Người có quyền lực tối cao hoặc thử thách khó khăn nhất.",
+    variation: ["Trùm"],
+    example: "Mẹ tao mới là Final Boss trong nhà.",
+    tags: ["game", "meme"],
+  },
+  {
+    term: "Monster Rookie",
+    definition:
+      "Tân binh quái vật. Nghệ sĩ/Nhóm nhạc mới ra mắt nhưng đã có thành tích khủng.",
+    variation: ["Tân binh khủng"],
+    example: "Nhóm nhạc này đúng là Monster Rookie của năm.",
+    tags: ["kpop", "showbiz"],
+  },
+  {
+    term: "Hot face",
+    definition: "Người nổi tiếng, có nhiều theo dõi trên Facebook.",
+    variation: ["Hot girl mạng"],
+    example: "Ngày xưa làm hot face oai lắm.",
+    tags: ["online", "fame"],
+  },
+  {
+    term: "Hot search",
+    definition:
+      "Từ khóa được tìm kiếm nhiều nhất (đứng đầu top tìm kiếm Weibo/Google).",
+    variation: ["Top tìm kiếm"],
+    example: "Scandal này chắc chắn lên hot search.",
+    tags: ["online", "trend"],
+  },
+  {
+    term: "Top god",
+    definition:
+      "Tối thượng, đỉnh cao (cách nói phóng đại của 'Top 1'). Meme 'Top god server'.",
+    variation: ["Top 1"],
+    example: "Sức mạnh này là top god rồi.",
+    tags: ["game", "meme"],
+  },
+  {
+    term: "Old school",
+    definition: "Phong cách cũ, cổ điển, truyền thống (đôi khi là lạc hậu).",
+    variation: ["Cổ lỗ sĩ"],
+    example: "Nhạc Rap old school nghe vẫn thấm.",
+    tags: ["style", "music"],
+  },
+  {
+    term: "New school",
+    definition: "Phong cách mới, hiện đại, chạy theo xu hướng.",
+    variation: ["Thời thượng"],
+    example: "Bọn trẻ giờ theo hệ new school hết rồi.",
+    tags: ["style", "music"],
+  },
+  {
+    term: "Tech bro",
+    definition:
+      "Dân công nghệ (IT) điển hình: lương cao, khô khan, hay nói chuyện kỹ thuật và đôi khi hơi coi thường ngành khác.",
+    variation: ["Dân IT"],
+    example: "Đừng nói chuyện tình cảm với mấy ông tech bro.",
+    tags: ["work", "stereotype"],
+  },
+  {
+    term: "Fan girl",
+    definition: "Fan nữ hâm mộ cuồng nhiệt.",
+    variation: ["Fan nữ"],
+    example: "Tiếng hét của đám fan girl vang trời.",
+    tags: ["fan", "type"],
+  },
+  {
+    term: "Anti fan",
+    definition:
+      "Người ghét và thường xuyên tẩy chay, nói xấu nghệ sĩ/người nổi tiếng.",
+    variation: ["Hater"],
+    example: "Lượng anti fan của nó đông hơn cả fan.",
+    tags: ["fan", "type"],
+  },
+  {
+    term: "Non-fan",
+    definition: "Người qua đường, không phải fan nhưng có quan tâm/nhận xét.",
+    variation: ["Qua đường"],
+    example: "Non-fan như tao nghe bài này cũng thấy hay.",
+    tags: ["fan", "type"],
+  },
+  {
+    term: "Only fan",
+    definition:
+      "Chỉ hâm mộ duy nhất một người trong nhóm nhạc (Akgae), thường hay gây chiến với fan các thành viên khác.",
+    variation: ["Fan duy nhất"],
+    example: "Mấy đứa only fan hay đi gây war nội bộ lắm.",
+    tags: ["kpop", "toxic"],
+  },
+  // =================================================================
+  // BỔ SUNG: CÁC KIỂU ĐÀN ÔNG & CON TRAI (MEN & BOY TYPES)
+  // =================================================================
+  {
+    term: "Nice guy",
+    definition:
+      "Chàng trai tự nhận mình là người tốt, luôn chiều chuộng phụ nữ nhưng mục đích chính là để đòi hỏi tình cảm/tình dục. Khi bị từ chối thì quay ngoắt sang chửi bới, đóng vai nạn nhân.",
+    variation: ["Trai tốt (giả hiệu)"],
+    example:
+      "Nó đúng kiểu nice guy độc hại, bị từ chối cái là bảo con gái ham tiền.",
+    tags: ["bad", "relationship", "toxic"],
+  },
+  {
+    term: "Mama boy",
+    definition:
+      "Chàng trai bám váy mẹ, không có chính kiến, mọi việc lớn nhỏ đều phải hỏi ý kiến mẹ mới dám làm (con trai cưng của mẹ).",
+    variation: ["Con trai cưng"],
+    example: "Yêu ai thì yêu chứ tránh xa mấy ông mama boy ra.",
+    tags: ["bad", "family", "nhanxet"],
+  },
+  {
+    term: "Chạn vương",
+    definition:
+      "Người đàn ông lấy vợ giàu hoặc gia thế khủng để nương nhờ, hưởng thụ cuộc sống sung sướng mà không cần lao động vất vả (vua của gầm chạn).",
+    variation: ["Tu chí làm ăn"],
+    example:
+      "Sau khi cưới con sếp tổng, anh ấy chính thức trở thành chạn vương.",
+    tags: ["slang", "money", "marriage"],
+  },
+  {
+    term: "Boy phố",
+    definition:
+      "Chỉ những thanh niên ăn mặc theo phong cách 'dân chơi' đặc trưng (áo Gucci/Dolce, quần bò bó, giày lười), hay đi xe tay ga lạng lách và nghe nhạc Vinahouse.",
+    variation: ["Dân tổ", "Boy phố cổ"],
+    example: "Gu của em là boy phố, múa quạt dẻo.",
+    tags: ["style", "trend", "stereotype"],
+  },
+  {
+    term: "Trai thẳng",
+    definition:
+      "Nghĩa đen là đàn ông dị tính. Nghĩa bóng (slang): Những chàng trai cục mịch, khô khan, không hiểu tâm lý con gái, EQ thấp trong chuyện tình cảm.",
+    variation: ["Straight man"],
+    example: "Nói ẩn ý thế mà ông ấy không hiểu, đúng là trai thẳng.",
+    tags: ["nhanxet", "personality"],
+  },
+  {
+    term: "Cờ đỏ di động",
+    definition:
+      "Walking Red Flag. Người đàn ông hội tụ đủ mọi thói hư tật xấu, nhìn đâu cũng thấy cảnh báo nguy hiểm không nên dính vào.",
+    variation: ["Walking red flag"],
+    example: "Thằng đó gia trưởng, vũ phu, lăng nhăng - đúng là cờ đỏ di động.",
+    tags: ["bad", "warning"],
+  },
+  {
+    term: "Giga Chad",
+    definition:
+      "Meme chỉ người đàn ông có ngoại hình cơ bắp, xương hàm vuông vức, nam tính tột độ và thần thái tự tin (biểu tượng của sự hoàn hảo về thể chất).",
+    variation: ["Chad"],
+    example: "Body như Giga Chad thế kia ai mà không mê.",
+    tags: ["meme", "body", "khen"],
+  },
+  {
+    term: "Beta male",
+    definition:
+      "Đàn ông yếu đuối, thiếu tự tin, hay phục tùng người khác (ngược lại với Alpha), thường đóng vai người theo đuổi trong vô vọng.",
+    variation: ["Trai nhu nhược"],
+    example: "Đừng sống như một beta male, hãy mạnh mẽ lên.",
+    tags: ["type", "nhanxet"],
+  },
+  {
+    term: "Ông chú",
+    definition:
+      "Chỉ những người đàn ông lớn tuổi hơn hẳn (thường là U30, U40) nhưng có sức hút trưởng thành, phong độ (Ahjussi).",
+    variation: ["Chú"],
+    example: "Gu của mấy bé bây giờ toàn là ông chú phong độ.",
+    tags: ["love", "age"],
+  },
+  {
+    term: "Trai kỹ thuật",
+    definition:
+      "Những chàng trai học/làm về kỹ thuật, IT, cơ khí. Thường bị gắn mác khô khan, ăn mặc xuề xòa nhưng rất chung thủy và giỏi sửa chữa.",
+    variation: ["Dân kỹ thuật"],
+    example: "Trai kỹ thuật không biết nói lời hoa mỹ đâu.",
+    tags: ["job", "stereotype"],
+  },
+  {
+    term: "Sĩ quan dự bị",
+    definition:
+      "Cách gọi hài hước/châm biếm những chàng trai thất nghiệp, ở nhà ăn bám bố mẹ hoặc trượt đại học (vốn để chỉ người chờ đi nghĩa vụ).",
+    variation: ["Ăn bám"],
+    example: "Ra trường 2 năm rồi vẫn làm sĩ quan dự bị ở nhà.",
+    tags: ["funny", "job"],
+  },
+  {
+    term: "Boy one champ",
+    definition:
+      "Thuật ngữ game chỉ người chỉ chơi giỏi duy nhất một tướng. Nghĩa bóng: Người đàn ông chung thủy, trước sau như một (hoặc chỉ biết làm 1 việc).",
+    variation: ["Chung tình"],
+    example: "Anh là boy one champ, cả đời chỉ yêu mình em.",
+    tags: ["game", "love"],
+  },
+  {
+    term: "Trai hư",
+    definition:
+      "Bad boy phiên bản Việt. Những chàng trai chơi bời, phóng khoáng, có chút bất cần đời, rất cuốn hút nhưng dễ làm con gái khóc.",
+    variation: ["Hư"],
+    example: "Trai hư anh không phải diễn, nhưng trai tốt anh phải vào vai.",
+    tags: ["type", "love"],
+  },
+  {
+    term: "Giai hà lội",
+    definition:
+      "Trai Hà Nội (nói ngọng/nói lái). Thường dùng để chỉ nét thanh lịch, văn vở hoặc tính cách đặc trưng của con trai Hà Nội gốc.",
+    variation: ["Trai phố"],
+    example: "Giai hà lội tán gái dẻo mỏ lắm.",
+    tags: ["slang", "funny"],
+  },
+  {
+    term: "Thanh niên hoi",
+    definition:
+      "Chàng trai yếu ớt, gầy gò, thiếu sức sống hoặc thiếu kỹ năng sống (từ lóng cũ nhưng vẫn dùng).",
+    variation: ["Yếu nhớt"],
+    example: "Nhìn như thanh niên hoi, bê cái thùng cũng không nổi.",
+    tags: ["nhanxet", "body"],
+  },
+  {
+    term: "Anh trai mưa",
+    definition:
+      "Chàng trai chấp nhận ở bên cạnh quan tâm chăm sóc cô gái nhưng chỉ được coi là anh trai, không có danh phận người yêu.",
+    variation: ["Anh trai nuôi"],
+    example: "Kiếp anh trai mưa buồn lắm em ơi.",
+    tags: ["relationship", "friendzone"],
+  },
 ];
