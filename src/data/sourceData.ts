@@ -6627,4 +6627,167 @@ export const TERMS: GenZTerm[] = [
     example: "Sao trên đời lại có loại người trơ trẽn thế nhỉ.",
     tags: ["nhanxet", "bad"],
   },
+  // =================================================================
+  // BỔ SUNG: NGHỀ NGHIỆP, VAI TRÒ & DIGITAL MARKETING (JOBS & ROLES)
+  // =================================================================
+  {
+    term: "KOL",
+    definition:
+      "Key Opinion Leader. Người có sức ảnh hưởng và có chuyên môn sâu trong một lĩnh vực cụ thể (bác sĩ, chuyên gia...). Lời nói của họ có trọng lượng cao.",
+    variation: ["Chuyên gia"],
+    example: "Nhãn hàng này chỉ book KOL ngành dược thôi.",
+    tags: ["job", "mkt", "role"],
+  },
+  {
+    term: "Influencer",
+    definition:
+      "Người có sức ảnh hưởng trên mạng xã hội nói chung (có thể là hot girl, diễn viên hài...). Mục tiêu chính là lan tỏa thông điệp.",
+    variation: ["Người ảnh hưởng"],
+    example: "Chiến dịch này cần booking 10 bạn Influencer mảng lifestyle.",
+    tags: ["job", "mkt", "role"],
+  },
+  {
+    term: "Micro-influencer",
+    definition:
+      "Những người có sức ảnh hưởng quy mô nhỏ (thường từ 10k - 100k followers) nhưng tệp fan chất lượng và tương tác cao.",
+    variation: ["Micro"],
+    example: "Book Micro-influencer giá rẻ mà hiệu quả hơn Celeb.",
+    tags: ["job", "mkt", "role"],
+  },
+  {
+    term: "Celeb",
+    definition:
+      "Celebrity. Người nổi tiếng trong giới giải trí (Ca sĩ, Diễn viên hạng A). Có độ nhận diện đại chúng cực cao.",
+    variation: ["Sao", "Ngôi sao"],
+    example: "Sự kiện này mời toàn Celeb hạng A.",
+    tags: ["job", "showbiz"],
+  },
+  {
+    term: "Content Creator",
+    definition:
+      "Nhà sáng tạo nội dung. Người chuyên sản xuất các nội dung số (video, bài viết, podcast...) trên các nền tảng.",
+    variation: ["Làm content", "Creator"],
+    example: "Nghề Content Creator giờ cạnh tranh khốc liệt lắm.",
+    tags: ["job", "social"],
+  },
+  {
+    term: "TikToker",
+    definition:
+      "Người sáng tạo nội dung chuyên hoạt động trên nền tảng TikTok.",
+    variation: ["Idol Tóp Tóp"],
+    example: "Nó mới nổi lên làm TikToker triệu view.",
+    tags: ["job", "social"],
+  },
+  {
+    term: "YouTuber",
+    definition:
+      "Người sáng tạo nội dung chuyên hoạt động trên nền tảng YouTube.",
+    variation: ["Làm Youtube"],
+    example: "Ước mơ của nó là làm YouTuber kiếm nút vàng.",
+    tags: ["job", "social"],
+  },
+  {
+    term: "Social Star",
+    definition:
+      "Ngôi sao mạng xã hội. Những người nổi lên từ mạng xã hội chứ không phải qua hoạt động nghệ thuật chính thống.",
+    variation: ["Idol mạng"],
+    example: "Dàn Social Star này quậy banh nóc sự kiện.",
+    tags: ["job", "social"],
+  },
+  {
+    term: "Editor",
+    definition:
+      "Người dựng phim, chỉnh sửa video. Nhân vật quyền lực đứng sau các video hài hước, thường hay troll chủ kênh bằng effect.",
+    variation: ["Dựng phim"],
+    example: "Anh Editor thêm cái hiệu ứng tát vào mặt nó hộ em.",
+    tags: ["job", "tech"],
+  },
+  {
+    term: "Des",
+    definition:
+      "Designer (Thiết kế đồ họa). Người chuyên làm banner, poster, hình ảnh.",
+    variation: ["Dân thiết kế"],
+    example: "Khách đòi Des sửa logo to lên tí.",
+    tags: ["job", "art"],
+  },
+  {
+    term: "Client",
+    definition:
+      "Khách hàng (Bên A). Người trả tiền thuê Agency/Freelancer làm quảng cáo. Thường được ví là 'thượng đế' khó chiều.",
+    variation: ["Khách", "Bên A"],
+    example: "Client feedback sửa lại từ đầu, khóc tiếng mán.",
+    tags: ["job", "mkt", "scary"],
+  },
+  {
+    term: "Agency",
+    definition:
+      "Công ty dịch vụ truyền thông/quảng cáo (Bên B). Nơi chịu áp lực từ Client và chạy deadline sấp mặt.",
+    variation: ["Bên B"],
+    example: "Làm Agency 3 năm mà già đi 10 tuổi.",
+    tags: ["job", "mkt", "work"],
+  },
+  {
+    term: "MUA",
+    definition:
+      "Make Up Artist. Chuyên gia trang điểm (thường đi theo các đoàn phim, sự kiện hoặc chụp kỷ yếu).",
+    variation: ["Thợ make"],
+    example: "Hôm nay MUA đến muộn nên chưa quay được.",
+    tags: ["job", "beauty"],
+  },
+  {
+    term: "Stylist",
+    definition:
+      "Người định hình phong cách, chọn trang phục cho nghệ sĩ/người mẫu.",
+    variation: ["Lên đồ"],
+    example: "Stylist bộ này dìm hàng nghệ sĩ quá.",
+    tags: ["job", "fashion"],
+  },
+  {
+    term: "VJ",
+    definition:
+      "Video Jockey. Người dẫn chương trình âm nhạc hoặc các show giải trí trên nền tảng số (thường trẻ trung, năng động).",
+    variation: ["MC"],
+    example: "Tuyển VJ dẫn chương trình đường phố, yêu cầu hoạt ngôn.",
+    tags: ["job", "media"],
+  },
+  {
+    term: "Host",
+    definition:
+      "Người chủ trì (chủ nhà) của một chương trình, podcast hoặc buổi livestream.",
+    variation: ["Chủ trì"],
+    example: "Host của podcast này giọng trầm ấm quá.",
+    tags: ["job", "media"],
+  },
+  {
+    term: "Talent",
+    definition:
+      "Tài năng/Nghệ sĩ độc quyền. Người ký hợp đồng quản lý với một công ty giải trí/Agency nào đó.",
+    variation: ["Gà nhà"],
+    example: "Công ty đang tuyển talent mới để debut.",
+    tags: ["job", "showbiz"],
+  },
+  {
+    term: "Seller",
+    definition:
+      "Người bán hàng (thường là bán hàng online). Những chiến thần chốt đơn.",
+    variation: ["Chủ shop", "Dân buôn"],
+    example: "Seller này uy tín, bao đổi trả.",
+    tags: ["job", "shopping"],
+  },
+  {
+    term: "Hot Mom",
+    definition:
+      "Những bà mẹ bỉm sữa xinh đẹp, giỏi giang, có sức ảnh hưởng lớn trên mạng xã hội về chủ đề nuôi dạy con/gia đình.",
+    variation: ["Mẹ bỉm hot"],
+    example: "Hội Hot Mom này toàn dùng đồ hiệu cho con.",
+    tags: ["role", "family"],
+  },
+  {
+    term: "Travel Blogger",
+    definition:
+      "Người chuyên đi du lịch và chia sẻ kinh nghiệm, review địa điểm ăn chơi.",
+    variation: ["Dân du lịch"],
+    example: "Làm Travel Blogger sướng thật, được đi chơi suốt.",
+    tags: ["job", "travel"],
+  },
 ];
