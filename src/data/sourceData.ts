@@ -5155,4 +5155,152 @@ export const TERMS: GenZTerm[] = [
     example: "Labubu đang sốt đất, giá tăng gấp đôi.",
     tags: ["market", "trend"],
   },
+  // =================================================================
+  // BỔ SUNG: NÓI LÁI & CHƠI CHỮ (WORDPLAY & SPOONERISMS)
+  // =================================================================
+  {
+    term: "Khoái ăn sang",
+    definition:
+      "Sáng ăn khoai. Cách nói lái than nghèo kể khổ, hoặc châm biếm những người không có tiền nhưng thích thể hiện sang chảnh.",
+    variation: ["Sáng ăn khoai"],
+    example: "Lương chưa về mà cứ đòi đi ăn lẩu, đúng là khoái ăn sang.",
+    tags: ["noilai", "funny", "money"],
+  },
+  {
+    term: "Đầu tiên",
+    definition:
+      "Tiền đâu. Câu hỏi thực tế nhất khi bắt đầu bất cứ dự án hay cuộc chơi nào.",
+    variation: ["Tiền đâu"],
+    example: "Ý tưởng thì hay đấy, nhưng đầu tiên?",
+    tags: ["noilai", "money"],
+  },
+  {
+    term: "Đơn giản",
+    definition:
+      "Đang giỡn. Nói lái để chỉ việc mình chỉ đang đùa thôi, không nghiêm túc.",
+    variation: ["Đang giỡn"],
+    example: "Mặt căng thế, tao đơn giản thôi mà.",
+    tags: ["noilai", "funny"],
+  },
+  {
+    term: "Vũ trụ",
+    definition:
+      "Vú bự. Cách nói lái 18+ nhẹ nhàng dùng để trêu chọc hoặc miêu tả ngoại hình (cẩn thận khi dùng).",
+    variation: ["V.bự"],
+    example: "Em kia đúng chuẩn hệ vũ trụ.",
+    tags: ["noilai", "slang", "body"],
+  },
+  {
+    term: "Cò lùi",
+    definition:
+      "Cò không tiến -> Tiền không có. Câu than vãn kinh điển khi rỗng túi.",
+    variation: ["Tiền không có"],
+    example: "Rủ đi chơi thì chịu, dạo này đang cò lùi.",
+    tags: ["noilai", "money"],
+  },
+  {
+    term: "Ban lãnh đạo",
+    definition:
+      "Bao lãnh đạn. Ám chỉ những người đứng đầu (hoặc nhóm trưởng) phải chịu trách nhiệm, hứng chịu mọi rắc rối thay cho tập thể.",
+    variation: ["Bao lãnh đạn"],
+    example: "Làm ban lãnh đạo khổ lắm, có biến là phải đứng mũi chịu sào.",
+    tags: ["noilai", "congso"],
+  },
+  {
+    term: "Chà lỏ",
+    definition:
+      "Chả lo. Thể hiện thái độ vô tư, không lo lắng gì cả (hoặc bất cần).",
+    variation: ["Chả lo"],
+    example: "Mai thi rồi mà nó vẫn đi chơi, đúng là chà lỏ.",
+    tags: ["noilai", "attitude"],
+  },
+  {
+    term: "Trời xanh",
+    definition:
+      "Tranh xời -> Tránh xa. Lời cảnh báo hoặc tự nhủ hãy tránh xa một đối tượng nào đó (thường là 'trời xanh' ghen tị với má hồng).",
+    variation: ["Tránh xa"],
+    example: "Thấy mấy đứa 'báo' là phải trời xanh ngay.",
+    tags: ["noilai", "funny"],
+  },
+  {
+    term: "La liếm",
+    definition:
+      "Liếm la. Chỉ hành động đi comment dạo, lân la khắp các bài đăng để gây chú ý hoặc hóng chuyện.",
+    variation: ["Liếm la"],
+    example: "Suốt ngày thấy nó la liếm trên Facebook.",
+    tags: ["noilai", "online"],
+  },
+  {
+    term: "Khem bẩn",
+    definition:
+      "Khẩn bem (Khẩn trương bem). Từ lóng, rủ rê làm chuyện ấy hoặc xử lý một việc gì đó gấp gáp.",
+    variation: ["Khẩn bem"],
+    example: "Kèo này ngon, phải khem bẩn thôi.",
+    tags: ["noilai", "slang"],
+  },
+  {
+    term: "Hải dón",
+    definition:
+      "Hòn d... (Bộ phận nhạy cảm của nam). Cách gọi lái hài hước, giảm tránh sự thô tục.",
+    variation: ["Hòn d*"],
+    example: "Đá bóng bị sút trúng hải dón, thốn tận rốn.",
+    tags: ["noilai", "funny"],
+  },
+  {
+    term: "Sương sâm",
+    definition:
+      "Sâm sương -> Sung sướng. Cảm giác hạnh phúc, thoải mái (đôi khi dùng với nghĩa 18+ tùy ngữ cảnh).",
+    variation: ["Sung sướng"],
+    example: "Được crush rep tin nhắn, cảm giác sương sâm gì đâu.",
+    tags: ["noilai", "khen"],
+  },
+  {
+    term: "Cặp vớ quá cũ",
+    definition:
+      "Cũ quá vợ cặp (hoặc Cụ quá vớ cắp). Một câu nói lái vô tri nhưng nghe vui tai, thường dùng để trêu chọc hoặc làm rối não đối phương.",
+    variation: ["Cũ quá"],
+    example: "Tặng quà gì độc lạ không? Tặng cặp vớ quá cũ đi.",
+    tags: ["noilai", "funny"],
+  },
+  {
+    term: "Hiện đại",
+    definition:
+      "Hại điện. Chỉ những thứ công nghệ mới rắc rối, khó dùng hoặc tốn kém năng lượng/tiền bạc.",
+    variation: ["Hại điện"],
+    example:
+      "Mua cái máy này về không biết dùng, đúng là hiện đại thì hại điện.",
+    tags: ["noilai", "tech"],
+  },
+  {
+    term: "Yêu sách",
+    definition:
+      "Yếu sắc -> Yếu... (sinh lý). Hoặc nghĩa đen là đòi hỏi quá nhiều (yêu sách). Gen Z dùng lái để trêu chọc khả năng đàn ông.",
+    variation: ["Yếu xinh lý"],
+    example: "Nhìn to cao thế mà yêu sách chán đời.",
+    tags: ["noilai", "bad"],
+  },
+  {
+    term: "Thương nhau",
+    definition:
+      "Thau nương -> Tha nương (Tha hương) hoặc Thu nương (Thu ngân?). Thường dùng trong câu: 'Thương nhau mà sống' (Sống nhau mà thương -> Sương nhau mà thống -> Sướng nhau mà thông).",
+    variation: ["Sướng nhau"],
+    example: "Anh em mình là phải thương nhau.",
+    tags: ["noilai", "funny"],
+  },
+  {
+    term: "Mây mưa",
+    definition:
+      "Mua mây (Mua may bán đắt)? Không, nghĩa phổ biến là chuyện chăn gối (làm tình).",
+    variation: ["Chuyện ấy"],
+    example: "Cặp đôi này suốt ngày mây mưa.",
+    tags: ["noilai", "adult"],
+  },
+  {
+    term: "Lãng tử",
+    definition:
+      "Lữ tạng -> Lạ lắm? (Hoặc Lử tạng - chết ở trong tạng?). Thường dùng trêu mấy anh chàng tỏ vẻ phong trần.",
+    variation: ["Lạ lắm"],
+    example: "Trông phong cách lãng tử (lữ tạng) ghê.",
+    tags: ["noilai", "style"],
+  },
 ];
