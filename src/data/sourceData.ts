@@ -6307,4 +6307,324 @@ export const TERMS: GenZTerm[] = [
     example: "Kiếp anh trai mưa buồn lắm em ơi.",
     tags: ["relationship", "friendzone"],
   },
+  // =================================================================
+  // BỔ SUNG: CHỬI YÊU, ĐANH ĐÁ & XÉO SẮC (SASSY & TEASING)
+  // =================================================================
+  {
+    term: "Quỷ sứ à",
+    definition:
+      "Câu mắng yêu kinh điển, điệu đà, dùng khi đối phương nói trúng tim đen hoặc trêu chọc mình làm mình ngại/buồn cười.",
+    variation: ["Quỷ sứ", "Đồ quỷ"],
+    example: "Khen người ta hoài ngại ghê, quỷ sứ à!",
+    tags: ["chui-yeu", "haihuoc", "sassy"],
+  },
+  {
+    term: "Đồ con quỷ",
+    definition:
+      "Cách gọi bạn thân hoặc ai đó rất nghịch ngợm, lầy lội (thường dùng với giọng điệu thân thiết).",
+    variation: ["Con quỷ này"],
+    example: "Đồ con quỷ, mày lại bày trò gì nữa rồi?",
+    tags: ["chui-yeu", "friend", "funny"],
+  },
+  {
+    term: "Mắc dịch",
+    definition:
+      "Từ lóng miền Nam (gốc là bệnh dịch), dùng để mắng ai đó phiền phức, kỳ cục hoặc hay làm trò lố (thường dùng giữa bạn bè).",
+    variation: ["Đồ mắc dịch"],
+    example: "Cười gì mà cười hoài, đồ mắc dịch.",
+    tags: ["chui-yeu", "slang", "daily"],
+  },
+  {
+    term: "Âm binh",
+    definition:
+      "Chỉ những người hay gây rắc rối, phá đám, tính tình dở dở ương ương (Âm binh khí cốt).",
+    variation: ["Âm binh khí cốt"],
+    example: "Sáng sớm đã gặp mấy đứa âm binh hãm tài.",
+    tags: ["chui", "funny", "slang"],
+  },
+  {
+    term: "Trời đánh",
+    definition:
+      "Cách gọi những đứa trẻ nghịch ngợm hoặc những người làm mình tức điên lên (Trời đánh thánh đâm).",
+    variation: ["Đồ trời đánh"],
+    example: "Cái thằng trời đánh này, lại làm vỡ bát rồi.",
+    tags: ["chui", "family", "funny"],
+  },
+  {
+    term: "Bà nội",
+    definition:
+      "Gọi ai đó (kể cả nam) là 'bà nội' khi họ quá hống hách, khó chiều hoặc bắt người khác phục vụ như bề trên.",
+    variation: ["Bà nội thiên hạ", "Mẹ thiên hạ"],
+    example: "Nó làm như nó là bà nội tao hay sao mà sai vặt.",
+    tags: ["nhanxet", "sarcasm"],
+  },
+  {
+    term: "Cái nết",
+    definition:
+      "Tính cách, thái độ (thường dùng để chê bai một cách hài hước: Cái nết đánh chết không chừa).",
+    variation: ["Nết na"],
+    example: "Ăn với uống, tém cái nết lại dùm.",
+    tags: ["nhanxet", "attitude"],
+  },
+  {
+    term: "Khẩu nghiệp",
+    definition:
+      "Nói những lời cay độc, xéo sắc hoặc hay đi bàn tán chuyện người khác (Tạo nghiệp).",
+    variation: ["Nghiệp tụ vành môi"],
+    example: "Bớt nghiệp đi má, coi chừng quả báo.",
+    tags: ["slang", "karma", "funny"],
+  },
+  {
+    term: "Xéo sắc",
+    definition:
+      "Đanh đá, hay nói móc máy, châm chọc người khác bằng những lời lẽ thâm thúy.",
+    variation: ["Xéo xắt"],
+    example: "Bà đó xéo sắc lắm, đừng có đụng vào.",
+    tags: ["nhanxet", "attitude"],
+  },
+  {
+    term: "Thứ gì đâu á",
+    definition:
+      "Câu than vãn khi gặp chuyện bực mình hoặc gặp người kỳ cục, khó hiểu (không biết gọi là thứ gì).",
+    variation: ["Thứ gì"],
+    example: "Nói mãi không nghe, đúng là cái thứ gì đâu á.",
+    tags: ["camthan", "annoy"],
+  },
+  {
+    term: "Báo đời",
+    definition:
+      "Người vô tích sự, chỉ biết gây nợ nần hoặc rắc rối cho gia đình/xã hội (biến thể nặng hơn của 'Báo').",
+    variation: ["Báo hại"],
+    example: "Nuôi mày tốn cơm tốn gạo, đúng là báo đời.",
+    tags: ["chui", "bad"],
+  },
+  {
+    term: "Tào lao",
+    definition:
+      "Nói linh tinh, chuyện không đâu vào đâu, vớ vẩn (Tào lao bí đao/Tào lao mía lao).",
+    variation: ["Tào lao bí đao"],
+    example: "Bớt nói chuyện tào lao đi, làm việc chính đi.",
+    tags: ["nhanxet", "daily"],
+  },
+  {
+    term: "Hãm cành cạch",
+    definition:
+      "Rất hãm, cực kỳ khó chịu và vô duyên (mức độ cao hơn của 'Hãm').",
+    variation: ["Hãm"],
+    example: "Thái độ phục vụ hãm cành cạch.",
+    tags: ["chui", "bad"],
+  },
+  {
+    term: "Thứ dữ",
+    definition:
+      "Người ghê gớm, không phải dạng vừa, có quyền lực hoặc tính cách hung dữ.",
+    variation: ["Dữ dằn"],
+    example: "Nhìn mặt là biết thứ dữ rồi, né gấp.",
+    tags: ["nhanxet", "scary"],
+  },
+  {
+    term: "Cô hồn",
+    definition:
+      "Ám chỉ những người sống dai như đỉa, hay đi xin xỏ, quấy rối hoặc gây phiền phức (Cô hồn các đảng).",
+    variation: ["Cô hồn sống"],
+    example: "Tháng 7 chưa qua mà cô hồn đã tới đòi nợ.",
+    tags: ["chui", "bad"],
+  },
+  {
+    term: "Mỏ hỗn",
+    definition:
+      "Người hay nói năng bạt mạng, chửi hay như hát, không kiêng nể ai (nhưng đôi khi lại được coi là hài hước).",
+    variation: ["Hỗn"],
+    example: "Xinh gái nhưng mỏ hơi hỗn nha em.",
+    tags: ["nhanxet", "slang"],
+  },
+  {
+    term: "Tới số",
+    definition:
+      "Sắp gặp họa lớn, hoặc dám chọc giận người quyền lực (Mày tới số rồi).",
+    variation: ["Tận số"],
+    example: "Dám lấy đồ ăn của nó là mày tới số rồi con ạ.",
+    tags: ["canhbao", "funny"],
+  },
+  {
+    term: "Ăn gan hùm",
+    definition: "Gan to, dám làm những việc liều lĩnh tày trời.",
+    variation: ["Gan to"],
+    example: "Mày ăn gan hùm hay sao mà dám cãi sếp tổng?",
+    tags: ["idiom", "action"],
+  },
+  {
+    term: "Mặt dày",
+    definition: "Không biết xấu hổ, trơ trẽn.",
+    variation: ["Mặt thớt"],
+    example: "Mặt dày thế mới đi xin được số điện thoại.",
+    tags: ["nhanxet", "bad"],
+  },
+  {
+    term: "Chảnh chó",
+    definition:
+      "Kiêu ngạo, khó gần, tỏ thái độ ngôi sao (từ lóng hơi thô nhưng phổ biến).",
+    variation: ["Chảnh"],
+    example: "Đừng chơi với nó, chảnh chó lắm.",
+    tags: ["chui", "bad"],
+  },
+  // =================================================================
+  // BỔ SUNG: KHẨU NGHIỆP, TÂM LINH & THÁI ĐỘ (KARMA & ATTITUDE)
+  // =================================================================
+  {
+    term: "Nghiệp quật",
+    definition:
+      "Hậu quả của việc làm xấu/nói xấu ập đến ngay lập tức (Karma). Thường dùng để trêu chọc khi bạn bè gặp xui xẻo sau khi vừa cười người khác.",
+    variation: ["Quả báo", "Nghiệp tụ"],
+    example: "Cười tao cho cố vào, giờ bị nghiệp quật chưa con.",
+    tags: ["tamlinh", "funny", "karma"],
+  },
+  {
+    term: "Sân si",
+    definition:
+      "Tính toán, ghen tị, hay so đo với người khác. Xuất phát từ thuật ngữ Phật giáo (Tham - Sân - Si) nhưng dùng với nghĩa đời thường là 'nhỏ nhen'.",
+    variation: ["Sân si"],
+    example: "Bớt sân si cho đời thanh thản bạn ơi.",
+    tags: ["nhanxet", "attitude", "bad"],
+  },
+  {
+    term: "Tích đức",
+    definition:
+      "Làm việc tốt để để dành phước báu. Tuy nhiên Gen Z hay dùng với nghĩa: 'Im lặng/Không chửi bậy để tích đức' (vì đang rất muốn chửi).",
+    variation: ["Tu tâm"],
+    example: "Tao đang cố gắng tích đức nên tao sẽ không chửi mày.",
+    tags: ["tamlinh", "funny"],
+  },
+  {
+    term: "Giải nghiệp",
+    definition:
+      "Làm hành động gì đó để chuộc lại lỗi lầm do 'khẩu nghiệp' gây ra (thường là đi ăn uống, bao bạn bè).",
+    variation: ["Xả xui"],
+    example: "Đi uống trà sữa giải nghiệp không?",
+    tags: ["action", "funny"],
+  },
+  {
+    term: "Phật online",
+    definition:
+      "Những người trên mạng thì nói đạo lý, tỏ vẻ từ bi hỉ xả, nhưng ngoài đời thì sống tệ hoặc hay nói xấu người khác.",
+    variation: ["Miệng nam mô bụng bồ dao găm"],
+    example: "Sợ nhất mấy mẹ Phật online, nói thì hay làm thì dở.",
+    tags: ["nhanxet", "fake", "online"],
+  },
+  {
+    term: "Thêm mắm dặm muối",
+    definition:
+      "Kể chuyện nhưng bịa thêm chi tiết cho kịch tính, sai lệch sự thật.",
+    variation: ["Thêm thắt"],
+    example: "Nó kể chuyện toàn thêm mắm dặm muối, tin 50% thôi.",
+    tags: ["gossip", "action"],
+  },
+  {
+    term: "Tam sao thất bản",
+    definition:
+      "Thông tin truyền từ người này sang người khác bị sai lệch hoàn toàn so với bản gốc.",
+    variation: ["Tin vịt"],
+    example: "Chuyện qua miệng mấy bà hàng xóm là tam sao thất bản ngay.",
+    tags: ["gossip", "idiom"],
+  },
+  {
+    term: "Bà tám",
+    definition:
+      "Người nhiều chuyện, hay hóng hớt và lan truyền tin đồn (không phân biệt nam nữ).",
+    variation: ["Camera chạy bằng cơm"],
+    example: "Đừng kể cho nó, nó là chúa tể bà tám đấy.",
+    tags: ["nhanxet", "gossip"],
+  },
+  {
+    term: "Đâm bị thóc chọc bị gạo",
+    definition:
+      "Kẻ chuyên đi kích bác, gây chia rẽ nội bộ, nói xấu người này với người kia.",
+    variation: ["Kích đểu"],
+    example: "Cái loại đâm bị thóc chọc bị gạo thì không chơi được.",
+    tags: ["nhanxet", "bad"],
+  },
+  {
+    term: "Gắp lửa bỏ tay người",
+    definition: "Vu khống, đổ oan cho người khác một cách trắng trợn.",
+    variation: ["Vu oan"],
+    example: "Nó làm sai rành rành mà dám gắp lửa bỏ tay người.",
+    tags: ["nhanxet", "bad"],
+  },
+  {
+    term: "Vạ miệng",
+    definition: "Gặp rắc rối lớn vì lỡ lời nói ra điều không nên nói.",
+    variation: ["Lỡ mồm"],
+    example: "Pha vạ miệng này khiến sự nghiệp của cô ấy đi tong.",
+    tags: ["speech", "fail"],
+  },
+  {
+    term: "Mồm đi chơi xa",
+    definition:
+      "Nói quá trớn, nói những điều xui xẻo hoặc xúc phạm người khác quá mức kiểm soát.",
+    variation: ["Miệng đi chơi xa"],
+    example: "Hôm qua say quá mồm đi chơi xa, sáng dậy hối hận không kịp.",
+    tags: ["speech", "fail"],
+  },
+  {
+    term: "Xàm xí",
+    definition:
+      "Nói chuyện nhảm nhí, vô duyên, không có nội dung (biến thể của Xàm).",
+    variation: ["Xàm xí đú"],
+    example: "Bớt nói chuyện xàm xí lại giùm.",
+    tags: ["nhanxet", "speech"],
+  },
+  {
+    term: "Hoa rơi cửa Phật",
+    definition:
+      "Ám chỉ những cô gái làm nghề nhạy cảm (hoặc sống buông thả) nhưng hay lên chùa chụp ảnh, nói đạo lý để 'tẩy trắng'.",
+    variation: ["Gái ngành"],
+    example: "Caption thì đạo lý nhưng profile thì hoa rơi cửa Phật.",
+    tags: ["slang", "sarcasm"],
+  },
+  {
+    term: "Tu khẩu",
+    definition: "Giữ mồm giữ miệng, kiềm chế không nói lời cay độc.",
+    variation: ["Tu cái miệng"],
+    example: "Năm mới quyết tâm tu khẩu, bớt chửi bậy.",
+    tags: ["action", "tamlinh"],
+  },
+  {
+    term: "Nói mát",
+    definition:
+      "Nói mỉa mai, châm biếm nhẹ nhàng nhưng thâm thúy khiến người nghe khó chịu.",
+    variation: ["Mát mẻ"],
+    example: "Không giúp thì thôi đừng có đứng đó nói mát.",
+    tags: ["speech", "attitude"],
+  },
+  {
+    term: "Đá xéo",
+    definition:
+      "Nói bóng gió, không chỉ đích danh nhưng ai cũng biết là đang chửi ai.",
+    variation: ["Khịa"],
+    example: "Status này đang đá xéo người yêu cũ nè.",
+    tags: ["speech", "drama"],
+  },
+  {
+    term: "Thánh thiện",
+    definition:
+      "Tốt bụng, hiền lành. Tuy nhiên hiện nay thường dùng với nghĩa mỉa mai những kẻ giả tạo (Giả vờ thánh thiện).",
+    variation: ["Hiền khô"],
+    example: "Diễn vai thánh thiện đạt quá, trao giải Oscar luôn.",
+    tags: ["nhanxet", "sarcasm"],
+  },
+  {
+    term: "Rớt cái nết",
+    definition:
+      "Hành xử vô duyên, thiếu ý tứ đến mức đánh rơi cả 'nhân phẩm/nết na'.",
+    variation: ["Rớt liêm sỉ"],
+    example: "Cười duyên lên em ơi, rớt cái nết ra đường rồi kìa.",
+    tags: ["funny", "attitude"],
+  },
+  {
+    term: "Trơ trẽn",
+    definition: "Mặt dày, không biết xấu hổ, làm sai nhưng vẫn vênh váo.",
+    variation: ["Không biết nhục"],
+    example: "Sao trên đời lại có loại người trơ trẽn thế nhỉ.",
+    tags: ["nhanxet", "bad"],
+  },
 ];
