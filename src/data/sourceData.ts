@@ -7051,7 +7051,7 @@ export const TERMS: GenZTerm[] = [
   {
     term: "Hướng nội hết phần đời còn lại",
     definition:
-      "Cảm giác xấu hổ, 'quê' đến mức muốn thu mình lại, không dám gặp ai nữa sau khi trải qua một tình huống &ldquo;vô tri&rdquo; hoặc thất bại ê chề.",
+      "Cảm giác xấu hổ, 'quê' đến mức muốn thu mình lại, không dám gặp ai nữa sau khi trải qua một tình huống \"vô tri\" hoặc thất bại ê chề.",
     variation: ["Sang chấn tâm lý"],
     example:
       "Vẫy tay chào nhầm người lạ, tao xin phép hướng nội hết phần đời còn lại.",
