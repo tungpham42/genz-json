@@ -7013,4 +7013,20 @@ export const TERMS: GenZTerm[] = [
     example: "Con mèo nhà tao béo núc ních, đi không nổi.",
     tags: ["beauty", "body"],
   },
+  {
+    term: "Ra rìa",
+    definition:
+      "Bị bỏ rơi, không còn được quan tâm, cưng chiều như trước (thường do đối phương có niềm vui mới).",
+    variation: ["Ra chuồng gà", "Thất sủng"],
+    example: "Từ ngày mẹ mua chó mới, con mèo cũ bị cho ra rìa.",
+    tags: ["sad", "daily", "relationship"],
+  },
+  {
+    term: "Family boy",
+    definition:
+      "Chàng trai hướng về gia đình, giỏi việc nhà, nấu ăn ngon và ưu tiên vợ con lên hàng đầu. Một dạng 'Green flag' to bự.",
+    variation: ["Người đàn ông của gia đình", "Trai đảm"],
+    example: "Gu em bây giờ là family boy, sáng đi làm tối về rửa bát.",
+    tags: ["khen", "type", "love"],
+  },
 ];
