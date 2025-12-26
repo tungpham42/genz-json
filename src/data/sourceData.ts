@@ -7366,4 +7366,106 @@ export const TERMS: GenZTerm[] = [
     example: "Cuối tuần đi xem hài độc thoại xả stress đi, nghe nói vui lắm.",
     tags: ["giaitri", "trend", "art"],
   },
+  // =================================================================
+  // BỔ SUNG: ẨN DỤ NHÂN VẬT & MỐI QUAN HỆ (METAPHORICAL RELATIONSHIPS)
+  // =================================================================
+  {
+    term: "Hồng Hài Nhi",
+    definition:
+      "Chỉ những chàng trai trẻ tuổi (dạng 'phi công'), tính cách còn trẻ con, bốc đồng, nóng nảy nhưng lại được các 'chị đẹp' cưng chiều. Hoặc ám chỉ những đứa trẻ nghịch ngợm 'trời đánh'.",
+    variation: ["Phi công trẻ", "Trẻ trâu"],
+    example:
+      "Chị ấy mới tuyển được một em Hồng Hài Nhi, chiều chuộng mệt nghỉ.",
+    tags: ["relationship", "funny", "metaphor"],
+  },
+  {
+    term: "Ngưu Ma Vương",
+    definition:
+      "Người đàn ông cục mịch, lì lợm, có sức khỏe nhưng thường... sợ vợ (sợ Bà La Sát). Đôi khi dùng để chỉ những ông chồng hay gây rắc rối bên ngoài.",
+    variation: ["Chồng cục súc"],
+    example: "Ở nhà thì sợ vợ, ra đường thì hổ báo như Ngưu Ma Vương.",
+    tags: ["relationship", "funny", "metaphor"],
+  },
+  {
+    term: "Bà La Sát",
+    definition:
+      "Thiết Phiến Công Chúa. Chỉ người vợ/người yêu cực kỳ hung dữ, hay ghen tuông và quản lý chồng chặt chẽ. 'Nóc nhà' phiên bản đáng sợ.",
+    variation: ["Sư tử Hà Đông"],
+    example: "Về lẹ đi không Bà La Sát ở nhà lại nổi trận lôi đình.",
+    tags: ["relationship", "scary", "wife"],
+  },
+  {
+    term: "Đường Tăng",
+    definition:
+      "Người đàn ông 'thơm ngon' (thịt Đường Tăng) mà ai cũng muốn có được ('ăn'). Hoặc chỉ người quá hiền lành, ngây thơ, thậm chí nhu nhược, lúc nào cũng cần người khác bảo vệ.",
+    variation: ["Trai ngoan", "Cục nam châm"],
+    example:
+      "Anh ấy là Đường Tăng của công ty, bao nhiêu em yêu nhền nhện vây quanh.",
+    tags: ["relationship", "funny", "metaphor"],
+  },
+  {
+    term: "Bạch Cốt Tinh",
+    definition:
+      "Ám chỉ những cô gái cực kỳ gầy (nghĩa đen). Nghĩa bóng chỉ người phụ nữ mưu mô, xảo quyệt, chuyên lừa gạt tình cảm hoặc 'hút máu' đàn ông (cao tay hơn Trà xanh).",
+    variation: ["Yêu quái", "Bộ xương"],
+    example:
+      "Cẩn thận con bé đó, Bạch Cốt Tinh chính hiệu đấy, không đơn giản đâu.",
+    tags: ["relationship", "bad", "body"],
+  },
+  {
+    term: "Yêu nhền nhện",
+    definition:
+      "Những cô gái quyến rũ, lẳng lơ, hay giăng bẫy tình để dụ dỗ đàn ông (thường là đàn ông đã có chủ hoặc ngây thơ).",
+    variation: ["Nhền nhện"],
+    example: "Tránh xa mấy động yêu nhền nhện đó ra.",
+    tags: ["relationship", "warning", "metaphor"],
+  },
+  {
+    term: "Trư Bát Giới",
+    definition:
+      "Chỉ người đàn ông hám sắc, thấy gái xinh là tít mắt lại, hoặc người lười biếng, ham ăn ham ngủ.",
+    variation: ["Hám gái"],
+    example: "Tính nết y hệt Trư Bát Giới, thấy gái là sáng mắt lên.",
+    tags: ["relationship", "funny", "bad"],
+  },
+  {
+    term: "Tôn Ngộ Không",
+    definition:
+      "Người tháo vát, gánh team, giải quyết mọi rắc rối cho sếp/người yêu (nhưng hay bị vòng kim cô siết đầu).",
+    variation: ["Người gánh team"],
+    example: "Làm nhân viên mà như Tôn Ngộ Không, sếp gọi đâu đánh đó.",
+    tags: ["work", "relationship", "funny"],
+  },
+  {
+    term: "Hoàng Thái Hậu",
+    definition:
+      "Cách gọi vui (hoặc sợ hãi) dành cho mẹ, mẹ vợ hoặc mẹ chồng quyền lực, lời nói là thánh chỉ.",
+    variation: ["Mẫu hậu"],
+    example: "Hoàng Thái Hậu chưa gật đầu thì đố ai dám làm.",
+    tags: ["family", "xungho", "power"],
+  },
+  {
+    term: "Cách Cách",
+    definition:
+      "Chỉ những cô gái tính tình tiểu thư, đỏng đảnh, khó chiều, đụng tí là giận dỗi (Bệnh công chúa).",
+    variation: ["Công chúa"],
+    example: "Mới yêu phải một em Cách Cách, mệt mỏi lắm.",
+    tags: ["relationship", "nhanxet"],
+  },
+  {
+    term: "Hồ ly tinh",
+    definition:
+      "Cáo chín đuôi. Từ cổ điển nhưng vẫn dùng nhiều để chỉ người thứ ba (Tuesday) có nhan sắc mê hoặc, phá hoại gia đình người khác.",
+    variation: ["Hồ ly"],
+    example: "Phim này xem tức nhất là con hồ ly tinh.",
+    tags: ["relationship", "drama", "villain"],
+  },
+  {
+    term: "Sư tử Hà Đông",
+    definition:
+      "Điển tích chỉ người vợ có tính khí hung dữ, hay quát tháo chồng (tiếng gầm của sư tử).",
+    variation: ["Vợ dữ"],
+    example: "Ông ấy sợ sư tử Hà Đông ở nhà một phép.",
+    tags: ["relationship", "scary", "idiom"],
+  },
 ];
