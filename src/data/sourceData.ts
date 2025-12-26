@@ -7358,4 +7358,12 @@ export const TERMS: GenZTerm[] = [
       "Tự nhiên thầy gọi lên bảng kiểm tra bài cũ, tao quíu quá quên sạch chữ.",
     tags: ["camxuc", "funny", "slang"],
   },
+  {
+    term: "Hài độc thoại",
+    definition:
+      "Stand-up comedy. Thể loại hài kịch trong đó nghệ sĩ biểu diễn một mình, trực tiếp kể chuyện và tương tác với khán giả. Gần đây trở thành trào lưu giải trí 'sốt xình xịch' trong giới trẻ nhờ sự nổi lên của các nhóm hài như Saigon Tếu, Phương Nam...",
+    variation: ["Stand-up", "Stand-up comedy"],
+    example: "Cuối tuần đi xem hài độc thoại xả stress đi, nghe nói vui lắm.",
+    tags: ["giaitri", "trend", "art"],
+  },
 ];
