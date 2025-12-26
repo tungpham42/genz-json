@@ -7130,4 +7130,232 @@ export const TERMS: GenZTerm[] = [
     example: "Ê nha, cái áo này mặc lên nhìn cũng keo lì nha.",
     tags: ["daily", "reaction"],
   },
+  // =================================================================
+  // BỔ SUNG: DANH TỪ CHƠI CHỮ & NÓI LÁI (WORDPLAY & SPOONERISMS NOUNS)
+  // =================================================================
+  {
+    term: "Mộng năng",
+    definition:
+      "Nặng mông. Chỉ những người lười biếng, ì ạch, bảo đi đâu hay làm gì cũng chần chừ không chịu nhấc người lên.",
+    variation: ["Lười"],
+    example: "Rủ đi chơi mà nó cứ mộng năng mãi không chịu thay đồ.",
+    tags: ["noilai", "nhanxet"],
+  },
+  {
+    term: "Chả quyên",
+    definition:
+      "Quyên chả -> Quên trả. Ám chỉ những người vay tiền hoặc mượn đồ nhưng cố tình lờ đi, không chịu trả lại.",
+    variation: ["Quên trả"],
+    example: "Cho nó mượn sách rồi nó chả quyên luôn.",
+    tags: ["noilai", "bad", "money"],
+  },
+  {
+    term: "Đau mề",
+    definition:
+      "Đê mau -> Demo. Nỗi đau của dân thiết kế/lập trình khi phải làm bản nháp (demo) sửa đi sửa lại nhiều lần.",
+    variation: ["Làm demo"],
+    example: "Khách bắt sửa lại cái đau mề này lần thứ n rồi.",
+    tags: ["noilai", "work", "tech"],
+  },
+  {
+    term: "Hối hận",
+    definition:
+      "Hận hối. Cảm giác căm hận/khó chịu vì bị hối thúc (deadline, công việc) liên tục.",
+    variation: ["Bị hối"],
+    example: "Sếp giục deadline làm tao cảm thấy hối hận tột độ.",
+    tags: ["noilai", "funny", "work"],
+  },
+  {
+    term: "Cầu bơ",
+    definition:
+      "Cơ bầu -> Cơm bầu (Cơm chan nước mắt?). Hoặc chỉ trạng thái bơ vơ, cầu mong sự giúp đỡ (Cầu bơ cầu bất). Gen Z dùng lái để chỉ 'Cơ bầu' (Cơ bụng/Body đẹp) hoặc 'Cơm bâu' (Ăn bám).",
+    variation: ["Cơ bụng"],
+    example: "Tập gym hì hục để có cầu bơ 6 múi.",
+    tags: ["noilai", "body"],
+  },
+  {
+    term: "Trầm kẽm",
+    definition:
+      "Trầm cảm. Cách đọc chệch âm (Kẽm = Zn -> Chằm Zn) để giảm nhẹ sự nặng nề của bệnh lý, thường dùng để than vãn vui.",
+    variation: ["Trầm cảm", "Chằm Zn"],
+    example: "Mỗi lần nhìn số dư tài khoản là muốn trầm kẽm.",
+    tags: ["wordplay", "tamtrang"],
+  },
+  {
+    term: "Ét-xây",
+    definition:
+      "Essay (Bài tiểu luận). Dùng để chỉ những status (bài đăng) trên Facebook dài lê thê như một bài văn tế.",
+    variation: ["Văn tế"],
+    example: "Nó viết cái ét-xây dài 3 trang A4 chỉ để chửi người yêu cũ.",
+    tags: ["wordplay", "online"],
+  },
+  {
+    term: "Ai-đồ",
+    definition:
+      "Idol (Thần tượng). Cách viết phiên âm tiếng Việt hài hước, dùng để gọi bạn bè hoặc người mình ngưỡng mộ (đôi khi mỉa mai).",
+    variation: ["Idol"],
+    example: "Chào ai-đồ, nay đi xe sang thế.",
+    tags: ["wordplay", "xungho"],
+  },
+
+  // =================================================================
+  // BỔ SUNG: DANH TỪ ẨN DỤ & BIỆT DANH (METAPHORICAL NOUNS)
+  // =================================================================
+  {
+    term: "Vựa muối",
+    definition:
+      "Người cực kỳ hài hước, nói câu nào 'mặn' câu đó (trái nghĩa với 'Nhạt'). Nơi tập trung sự hài hước.",
+    variation: ["Cây hài"],
+    example: "Nó là vựa muối của cả lớp, mở mồm ra là cười.",
+    tags: ["khen", "funny"],
+  },
+  {
+    term: "Rạp xiếc",
+    definition:
+      "Một tập thể hoặc nhóm người ồn ào, hỗn loạn và hay làm những trò hề lố bịch (thường dùng chỉ nhóm bạn thân hoặc đồng nghiệp lầy lội).",
+    variation: ["Gánh xiếc"],
+    example: "Cái phòng marketing này đúng là cái rạp xiếc trung ương.",
+    tags: ["funny", "group"],
+  },
+  {
+    term: "Cục tạ",
+    definition:
+      "Người gánh nặng cho cả team, làm việc kém cỏi khiến người khác phải làm thay (Tạ nặng).",
+    variation: ["Quả tạ"],
+    example: "Đừng rủ nó chơi cùng, cục tạ vàng đấy.",
+    tags: ["game", "work", "bad"],
+  },
+  {
+    term: "Chiếu cũ",
+    definition:
+      "Người từng trải, dày dạn kinh nghiệm, lõi đời (Ngược lại với 'Tấm chiếu mới').",
+    variation: ["Cáo già"],
+    example: "Gặp ngay chiếu cũ, nó bắt bài hết chiêu trò của mình.",
+    tags: ["nhanxet", "experience"],
+  },
+  {
+    term: "Thùng rác cảm xúc",
+    definition:
+      "Người luôn phải lắng nghe những lời than vãn, tiêu cực của người khác mà không được quan tâm ngược lại.",
+    variation: ["Người lắng nghe"],
+    example: "Tao không muốn làm thùng rác cảm xúc cho mày nữa đâu.",
+    tags: ["relationship", "sad"],
+  },
+  {
+    term: "Cục nợ",
+    definition:
+      "Cách gọi yêu (hoặc than phiền) dành cho con cái, người yêu hoặc thú cưng ngốn nhiều tiền của.",
+    variation: ["Nợ đời"],
+    example: "Cục nợ này tháng nào cũng tiêu tốn vài triệu tiền pate.",
+    tags: ["xungho", "funny"],
+  },
+  {
+    term: "Ngân hàng",
+    definition:
+      "Bố mẹ, hoặc người yêu - nguồn cung cấp tài chính chủ yếu (thường dùng hài hước).",
+    variation: ["Nhà tài trợ"],
+    example: "Đợi ngân hàng mẹ chuyển tiền đã mới đi chơi được.",
+    tags: ["slang", "money"],
+  },
+  {
+    term: "Yêu quái",
+    definition:
+      "Cách gọi bạn thân hoặc người yêu khi họ bày trò nghịch ngợm, quấy phá hoặc trang điểm quá đậm.",
+    variation: ["Yêu nghiệt"],
+    example: "Thu phục con yêu quái này giùm tôi cái.",
+    tags: ["funny", "friend"],
+  },
+  {
+    term: "Kỳ lân",
+    definition:
+      "Những người hoặc start-up hiếm có, xuất sắc, giá trị cao (Unicorn). Hoặc chỉ người yêu lý tưởng không có thật.",
+    variation: ["Hàng hiếm"],
+    example: "Tìm được trai thẳng, chung thủy, giàu có giờ như tìm kỳ lân.",
+    tags: ["khen", "rare"],
+  },
+  {
+    term: "Chiến hạm",
+    definition:
+      "Cặp đôi (OTP) được rất nhiều người ủng hộ, 'thuyền' to và vững chắc, không thể chìm.",
+    variation: ["Thuyền lớn"],
+    example: "OTP này là chiến hạm rồi, real không lối thoát.",
+    tags: ["fan", "couple"],
+  },
+  {
+    term: "Thuyền trưởng",
+    definition:
+      "Người đứng đầu một hội nhóm fan (fandom), người khởi xướng việc gán ghép cặp đôi (shipper).",
+    variation: ["Captain"],
+    example: "Thuyền trưởng tung hint mới, anh em ra khơi nào.",
+    tags: ["fan", "role"],
+  },
+
+  // =================================================================
+  // BỔ SUNG: DANH TỪ HÁN VIỆT & VĂN HÓA POP (SINO-VIETNAMESE & POP CULTURE NOUNS)
+  // =================================================================
+  {
+    term: "Bạch nguyệt quang",
+    definition:
+      "Ánh trăng sáng. Chỉ mối tình đầu hoặc người mình yêu đơn phương sâu đậm nhưng không bao giờ với tới được, luôn để lại sự day dứt (từ tiểu thuyết Trung Quốc).",
+    variation: ["Crush cũ", "Tình đầu"],
+    example: "Cô ấy mãi là bạch nguyệt quang trong lòng anh ta.",
+    tags: ["love", "novel", "noun"],
+  },
+  {
+    term: "Chu sa chí",
+    definition:
+      "Nốt ruồi son. Chỉ người hiện tại đang ở bên cạnh, người vợ/người yêu thực tế (thường đặt trong thế đối lập: Đàn ông lấy được Bạch nguyệt quang thì cô ấy thành hạt cơm nguội, cưới Chu sa chí thì cô ấy thành vết máu muỗi).",
+    variation: ["Nốt ruồi son"],
+    example: "Giữa bạch nguyệt quang và chu sa chí, anh chọn ai?",
+    tags: ["love", "novel", "noun"],
+  },
+  {
+    term: "Hào quang nhân vật chính",
+    definition:
+      "Main character energy. Sự may mắn vô lý hoặc sức hút tự nhiên khiến một người luôn là tâm điểm chú ý như nhân vật chính trong phim.",
+    variation: ["Aura nhân vật chính"],
+    example: "Nó bước vào phòng là thấy hào quang nhân vật chính tỏa ra rồi.",
+    tags: ["khen", "funny", "noun"],
+  },
+  {
+    term: "Kiếp nạn",
+    definition:
+      "Những rắc rối, xui xẻo xảy ra liên tiếp (như 81 kiếp nạn của thầy trò Đường Tăng).",
+    variation: ["Tai ương"],
+    example: "Đi làm ngày mưa là một kiếp nạn.",
+    tags: ["funny", "bad", "noun"],
+  },
+  {
+    term: "Hắc lịch sử",
+    definition:
+      "Quá khứ đen tối. Những chuyện xấu hổ, hình ảnh 'trẻ trâu' ngày xưa muốn chôn vùi vĩnh viễn.",
+    variation: ["Quá khứ dữ dội"],
+    example: "Đừng đào lại hắc lịch sử hồi Yahoo của tao nữa.",
+    tags: ["funny", "memory", "noun"],
+  },
+  {
+    term: "Cơm chó",
+    definition:
+      "Cẩu lương (Thức ăn cho chó). Sự thể hiện tình cảm ngọt ngào của các cặp đôi ngay trước mặt người độc thân.",
+    variation: ["Cẩu lương"],
+    example: "Hôm nay bội thực cơm chó rồi.",
+    tags: ["love", "slang", "noun"],
+  },
+  {
+    term: "Wordplay",
+    definition:
+      "Nghệ thuật chơi chữ, sử dụng sự đồng âm, nói lái (spoonerism), hoặc đa nghĩa của từ ngữ để gây cười hoặc tạo ấn tượng. Gen Z được coi là bậc thầy của bộ môn này với các trend như 'Khoái ăn sang', 'Chả quyên'...",
+    variation: ["Chơi chữ", "Nói lái", "Puns"],
+    example: "Nó đúng là chúa tể wordplay, nói câu nào thâm thúy câu đó.",
+    tags: ["skill", "funny", "trend"],
+  },
+  {
+    term: "Quíu",
+    definition:
+      "Trạng thái cuống cuồng, rối bời, hoảng loạn nhẹ hoặc bí bách không biết xử lý ra sao (thường dùng trong ngữ cảnh hài hước khi gặp crush hoặc bị 'dí' bất ngờ).",
+    variation: ["Quíu càng", "Qué", "Cuống"],
+    example:
+      "Tự nhiên thầy gọi lên bảng kiểm tra bài cũ, tao quíu quá quên sạch chữ.",
+    tags: ["camxuc", "funny", "slang"],
+  },
 ];
