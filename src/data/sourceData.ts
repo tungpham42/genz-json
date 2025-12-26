@@ -7029,4 +7029,105 @@ export const TERMS: GenZTerm[] = [
     example: "Gu em bây giờ là family boy, sáng đi làm tối về rửa bát.",
     tags: ["khen", "type", "love"],
   },
+  // =================================================================
+  // BỔ SUNG MỚI NHẤT: TREND 2025 (BLIND BOX, TIKTOK, SHOW)
+  // =================================================================
+  {
+    term: "Sít rịt",
+    definition:
+      "Secret (Bí mật). Cách đọc phiên âm tiếng Việt hài hước của từ 'Secret' trong giới chơi Blind Box (Pop Mart), chỉ vật phẩm siêu hiếm.",
+    variation: ["Bốc trúng sít rịt", "Ra sít rịt"],
+    example: "Trời ơi nhân phẩm cao quá, bốc một phát ra con sít rịt luôn!",
+    tags: ["trend", "blindbox", "toy"],
+  },
+  {
+    term: "Ra đường em nể mình anh",
+    definition:
+      "Câu nói viral dùng để châm biếm những thanh niên thích thể hiện, ra dẻ ta đây là 'giang hồ' hoặc làm những trò lố bịch/nguy hiểm ngoài đường.",
+    variation: ["Nể mình anh"],
+    example: "Đi xe bốc đầu kiểu đó thì ra đường em nể mình anh.",
+    tags: ["meme", "attitude", "sarcasm"],
+  },
+  {
+    term: "Hướng nội hết phần đời còn lại",
+    definition:
+      "Cảm giác xấu hổ, 'quê' đến mức muốn thu mình lại, không dám gặp ai nữa sau khi trải qua một tình huống &ldquo;vô tri&rdquo; hoặc thất bại ê chề.",
+    variation: ["Sang chấn tâm lý"],
+    example:
+      "Vẫy tay chào nhầm người lạ, tao xin phép hướng nội hết phần đời còn lại.",
+    tags: ["meme", "camxuc", "social"],
+  },
+  {
+    term: "Tuyệt đối điện ảnh",
+    definition:
+      "Khen ngợi một khoảnh khắc, một bức ảnh hoặc nhan sắc đẹp xuất sắc, bố cục hoàn hảo như phim điện ảnh (Cinematic).",
+    variation: ["Điện ảnh"],
+    example: "Góc nghiêng này của bà nhìn tuyệt đối điện ảnh luôn.",
+    tags: ["khen", "art", "trend"],
+  },
+  {
+    term: "Chưa có đủ wow",
+    definition:
+      "Câu nhận xét viral từ các show thực tế (The New Mentor...), ý chê bai màn trình diễn/sự việc chưa đủ ấn tượng, còn nhạt nhòa.",
+    variation: ["Thiếu điểm nhấn"],
+    example: "Bài thuyết trình này ổn nhưng chưa có đủ wow.",
+    tags: ["nhanxet", "meme", "show"],
+  },
+  {
+    term: "Thua Gia Cát Lượng đúng cây quạt",
+    definition:
+      "Tự tin khẳng định mình rất thông minh, mưu lược (tính toán như thần), chỉ thiếu mỗi cái quạt lông vũ là thành Gia Cát Lượng (thường dùng hài hước khi... tính sai).",
+    variation: ["Gia Cát Dự"],
+    example:
+      "Vụ này tao tính hết rồi, chỉ thua Gia Cát Lượng đúng cây quạt thôi.",
+    tags: ["meme", "funny", "smart"],
+  },
+  {
+    term: "Đại đại đi",
+    definition:
+      "Làm cho xong, làm qua loa, phiến phiến cho qua chuyện (Thường mang ý buông xuôi hoặc dễ tính).",
+    variation: ["Phiến phiến"],
+    example: "Mệt quá rồi, chọn đại đại đi cho xong.",
+    tags: ["daily", "attitude"],
+  },
+  {
+    term: "Lốp trưởng",
+    definition:
+      "Lớp trưởng (nói lái/nói ngọng kiểu Gen Z). Cách gọi trêu chọc người đứng đầu lớp hoặc nhóm bạn.",
+    variation: ["Lớp trưởng"],
+    example: "Lốp trưởng ơi, hôm nay có điểm danh không?",
+    tags: ["school", "funny", "xungho"],
+  },
+  {
+    term: "Phải gọi bằng điện thoại",
+    definition:
+      "Cách nói chơi chữ của 'Phải gọi là...' (đỉnh/đẹp...). Dùng để nhấn mạnh mức độ tuyệt vời của sự việc (hoặc đơn giản là chêm vào cho vần).",
+    variation: ["Phải gọi là"],
+    example: "Pha xử lý này phải gọi bằng điện thoại.",
+    tags: ["khen", "funny", "slang"],
+  },
+  {
+    term: "Cạn phước lắm mới thấy",
+    definition:
+      "Câu than vãn hài hước khi vô tình nhìn thấy những hình ảnh/sự việc 'kỳ quái', xấu xí hoặc gây ám ảnh (cursed images).",
+    variation: ["Mù mắt"],
+    example: "Vào nhầm group xem ảnh dìm hàng, đúng là cạn phước lắm mới thấy.",
+    tags: ["meme", "funny", "fail"],
+  },
+  {
+    term: "Ok mom",
+    definition:
+      "Ok mẹ. Cách trả lời bạn bè/người yêu khi họ càm ràm, chỉ đạo hoặc quan tâm thái quá giống như mẹ mình (mang ý trêu chọc hoặc ngoan ngoãn 'giả trân').",
+    variation: ["Vâng mẹ"],
+    example: "- Nhớ đội mũ bảo hiểm vào đấy. - Ok mom!",
+    tags: ["xungho", "sassy", "funny"],
+  },
+  {
+    term: "Ê nha",
+    definition:
+      "Câu cảm thán dùng để cảnh báo nhẹ, hoặc thể hiện sự phát hiện ra điều gì đó thú vị/bất ngờ (nghĩa tích cực: 'Cũng được nha').",
+    variation: ["Được nha"],
+    example: "Ê nha, cái áo này mặc lên nhìn cũng keo lì nha.",
+    tags: ["daily", "reaction"],
+  },
 ];
