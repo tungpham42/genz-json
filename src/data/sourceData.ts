@@ -5257,9 +5257,9 @@ export const TERMS: GenZTerm[] = [
   {
     term: "Cặp vớ quá cũ",
     definition:
-      "Cũ quá vợ cặp (hoặc Cụ quá vớ cắp). Một câu nói lái vô tri nhưng nghe vui tai, thường dùng để trêu chọc hoặc làm rối não đối phương.",
+      "Cặp v* quá cỡ",
     variation: ["Cũ quá"],
-    example: "Tặng quà gì độc lạ không? Tặng cặp vớ quá cũ đi.",
+    example: "Cặp vớ quá cũ nhìn mê chữ ê kéo dài luôn.",
     tags: ["noilai", "funny"],
   },
   {
