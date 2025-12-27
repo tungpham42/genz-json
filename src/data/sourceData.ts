@@ -5256,8 +5256,7 @@ export const TERMS: GenZTerm[] = [
   },
   {
     term: "Cặp vớ quá cũ",
-    definition:
-      "Cặp v* quá cỡ",
+    definition: "Cặp vú quá cỡ",
     variation: ["Cũ quá"],
     example: "Cặp vớ quá cũ nhìn mê chữ ê kéo dài luôn.",
     tags: ["noilai", "funny"],
