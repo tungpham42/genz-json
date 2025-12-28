@@ -7467,4 +7467,343 @@ export const TERMS: GenZTerm[] = [
     example: "Ông ấy sợ sư tử Hà Đông ở nhà một phép.",
     tags: ["relationship", "scary", "idiom"],
   },
+  // =================================================================
+  // BỔ SUNG: THUẬT NGỮ GAME CHUYÊN SÂU (ADVANCED GAMING TERMS)
+  // =================================================================
+  {
+    term: "Combat",
+    definition:
+      "Giao tranh tổng. Trận đánh lớn quy tụ nhiều thành viên của cả hai phe (thường là 5vs5).",
+    variation: ["Giao tranh", "Đánh nhau"],
+    example: "Combat tổng ở hang rồng mà thiếu AD là toang.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Farm",
+    definition:
+      "Hành động tiêu diệt lính/quái rừng để kiếm vàng và kinh nghiệm.",
+    variation: ["Cày tiền", "Farm lính"],
+    example: "Rừng đừng đi gank nữa, tập trung farm đi thọt quá rồi.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Snowball",
+    definition:
+      "Lăn cầu tuyết. Tận dụng lợi thế nhỏ ban đầu để áp đảo đối phương, khiến chênh lệch ngày càng lớn không thể gỡ gạc.",
+    variation: ["Lăn cầu"],
+    example: "Trận này team mình snowball từ phút thứ 5.",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Pay to win",
+    definition:
+      "Nạp tiền để thắng. Chỉ những game mà người nạp tiền có sức mạnh vượt trội so với người chơi miễn phí (cày chay).",
+    variation: ["P2W", "Đô la thần chưởng"],
+    example: "Game này pay to win quá, không nạp không đánh lại.",
+    tags: ["game", "money"],
+  },
+  {
+    term: "F2P",
+    definition:
+      "Free to Play. Người chơi hệ 'cày chay', không nạp tiền hoặc chỉ nạp rất ít.",
+    variation: ["Cày chay", "Nông dân"],
+    example: "Dân F2P phải tích cóp từng viên đá quý.",
+    tags: ["game", "money"],
+  },
+  {
+    term: "Gacha",
+    definition:
+      "Cơ chế quay thưởng may rủi (như xổ số) để nhận nhân vật/vật phẩm. Nơi thử thách 'nhân phẩm' của game thủ.",
+    variation: ["Quay gacha", "Roll"],
+    example: "Hiến máu cho gacha mà toàn ra rác.",
+    tags: ["game", "luck"],
+  },
+  {
+    term: "Whale",
+    definition:
+      "Cá voi/Đại gia. Chỉ những người chơi nạp cực nhiều tiền vào game (đặc biệt là game Gacha).",
+    variation: ["Cá mập"],
+    example: "Nhìn acc của con cá voi này mà thèm.",
+    tags: ["game", "money", "rich"],
+  },
+  {
+    term: "Loot",
+    definition:
+      "Nhặt đồ, thu thập vật phẩm từ hòm thính hoặc từ xác đối thủ (thường trong game sinh tồn).",
+    variation: ["Lụm đồ", "Hôi của"],
+    example: "Loot nhanh lên bo vào rồi.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Camp",
+    definition:
+      "Cắm trại/Núp lùm. Chiến thuật đứng yên một chỗ (thường là góc khuất) chờ địch đi qua để bắn lén.",
+    variation: ["Camper", "Móc lốp"],
+    example: "Ghét nhất mấy thằng camper cầm shotgun ngồi trong nhà.",
+    tags: ["game", "fps", "annoy"],
+  },
+  {
+    term: "Sấy",
+    definition:
+      "Spray. Bắn liên thanh không nhả cò (trong game bắn súng), thường yêu cầu kỹ năng ghìm tâm.",
+    variation: ["Xả đạn"],
+    example: "Pha sấy mù mắt của game thủ chuyên nghiệp.",
+    tags: ["game", "fps"],
+  },
+  {
+    term: "Clutch",
+    definition:
+      "Pha xử lý thần thánh lật ngược tình thế khi chỉ còn một mình đấu với nhiều đối thủ (1vs3, 1vs4...).",
+    variation: ["Gánh team", "Lật kèo"],
+    example: "Pha clutch 1vs4 đỉnh cao cứu cả ván đấu.",
+    tags: ["game", "skill", "khen"],
+  },
+  {
+    term: "Rush",
+    definition:
+      "Tấn công nhanh, dồn dập vào một điểm ngay từ đầu trận (Rush B, Rush mid).",
+    variation: ["Đẩy nhanh"],
+    example: "Anh em rush B, đừng dừng lại!",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Bo",
+    definition:
+      "Vòng an toàn trong game sinh tồn (PUBG/Free Fire). Người chơi phải chạy vào trong bo để không bị mất máu.",
+    variation: ["Vòng bo"],
+    example: "Chạy bo sấp mặt mà không kiếm được cái xe.",
+    tags: ["game", "survival"],
+  },
+  {
+    term: "MVP",
+    definition: "Most Valuable Player. Người chơi xuất sắc nhất trận đấu.",
+    variation: ["Gánh team"],
+    example: "Trận nào tao cũng đạt MVP mà vẫn thua.",
+    tags: ["game", "award"],
+  },
+  {
+    term: "KDA",
+    definition:
+      "Kill/Death/Assist. Chỉ số Hạ gục/Bị hạ/Hỗ trợ. Thước đo 'trình độ' hoặc độ 'tạ' của người chơi.",
+    variation: ["Chỉ số"],
+    example: "Nhìn cái KDA 0/10/0 là biết phá game rồi.",
+    tags: ["game", "stats"],
+  },
+  {
+    term: "Meta",
+    definition:
+      "Most Effective Tactic Available. Chiến thuật hiệu quả nhất ở thời điểm hiện tại. 'Out meta' là lỗi thời.",
+    variation: ["Hợp thời"],
+    example: "Con tướng này out meta rồi, đừng pick nữa.",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Ban Pick",
+    definition:
+      "Cấm và Chọn. Giai đoạn cân não trước khi vào trận để chọn tướng và cấm tướng tủ của đối phương.",
+    variation: ["Cấm chọn"],
+    example: "Khâu Ban Pick của team này tệ quá.",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Dive",
+    definition:
+      "Băng trụ. Lao vào trong tầm bắn của trụ đối phương để giết địch (rủi ro cao).",
+    variation: ["Băng"],
+    example: "Pha dive trụ đi vào lòng đất.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Last hit",
+    definition: "Đòn đánh cuối cùng kết liễu lính/quái/tướng để nhận vàng.",
+    variation: ["Kết liễu"],
+    example: "Farm hụt last hit hết, chán.",
+    tags: ["game", "skill"],
+  },
+  {
+    term: "Clear",
+    definition:
+      "Dọn dẹp sạch sẽ (Clear lính, Clear map) hoặc quét sạch đội hình đối phương (Wipe out).",
+    variation: ["Dọn"],
+    example: "Clear xong bãi quái này rồi về.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Bóp",
+    definition:
+      "Bóp team. Hành động ngu ngốc hoặc sai lầm làm hại đồng đội (như chặn đường, ném bom nhầm).",
+    variation: ["Bóp dái"],
+    example: "Pha tường băng của Anivia bóp team cực mạnh.",
+    tags: ["game", "fail", "funny"],
+  },
+  {
+    term: "Múa",
+    definition:
+      "Thực hiện các thao tác kỹ năng phức tạp, đẹp mắt (thường dùng cho các tướng sát thủ như Yasuo, Florentino).",
+    variation: ["Múa quạt"],
+    example: "Thằng này múa Flo dẻo đấy.",
+    tags: ["game", "skill"],
+  },
+  {
+    term: "Lên bảng đếm số",
+    definition: "Bị hạ gục, màn hình chuyển sang màu xám chờ hồi sinh.",
+    variation: ["Liệm", "Về thành dưỡng sức"],
+    example: "Vừa ló mặt ra đã lên bảng đếm số.",
+    tags: ["game", "death"],
+  },
+  {
+    term: "Hồi máu",
+    definition:
+      "Về nhà hoặc dùng bình máu để phục hồi HP. Nghĩa bóng: Lĩnh lương (được hồi máu).",
+    variation: ["Bơm máu"],
+    example: "Từ từ đợi tao hồi máu đã rồi combat.",
+    tags: ["game", "daily"],
+  },
+  {
+    term: "Bảo kê",
+    definition:
+      "Bảo vệ. Nhiệm vụ của Support là bảo kê cho AD (Xạ thủ) được bắn.",
+    variation: ["Cover"],
+    example: "SP bảo kê kiểu gì để AD chết hoài vậy?",
+    tags: ["game", "role"],
+  },
+  {
+    term: "Def",
+    definition: "Defense. Phòng thủ, tử thủ nhà chính khi đang thua thế.",
+    variation: ["Thủ nhà", "Ôm trụ"],
+    example: "Đừng ra ngoài, ở nhà def trụ đi.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Push",
+    definition: "Đẩy đường, phá trụ để tiến công.",
+    variation: ["Đẩy trụ"],
+    example: "Chia ra push lẻ đi, đừng tập trung mid nữa.",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Mic",
+    definition:
+      "Microphone. Bật mic giao tiếp trong game. 'Hỏng mic' thường là cái cớ để không phải nói chuyện.",
+    variation: ["Voice chat"],
+    example: "Bật mic lên info cho lẹ.",
+    tags: ["game", "tech"],
+  },
+  {
+    term: "Toxic",
+    definition:
+      "Thái độ độc hại, hay chửi bới, xúc phạm đồng đội hoặc phá game.",
+    variation: ["Trẻ trâu"],
+    example: "Gặp mấy thằng toxic tốt nhất là mute (tắt tiếng).",
+    tags: ["game", "behavior"],
+  },
+  {
+    term: "Elo Hell",
+    definition:
+      "Địa ngục Elo. Mức rank thấp nơi hội tụ đầy rẫy troll, AFK, gà mờ, khiến người chơi giỏi cũng không thể leo lên được.",
+    variation: ["Kẹt rank"],
+    example: "Tao bị kẹt ở Elo Hell Vàng 4 cả tháng nay.",
+    tags: ["game", "rank"],
+  },
+  {
+    term: "Try hard",
+    definition:
+      "Chơi nghiêm túc, tập trung cao độ để thắng (ngược lại với For fun).",
+    variation: ["Cày cuốc"],
+    example: "Tối nay team mình try hard leo Cao Thủ nhé.",
+    tags: ["game", "attitude"],
+  },
+  {
+    term: "Check bụi",
+    definition:
+      "Kiểm tra các bụi cỏ xem có địch núp không (dùng kỹ năng hoặc đi vào).",
+    variation: ["Soi bụi"],
+    example: "SP đi trước check bụi đi, đừng để AD đi đầu.",
+    tags: ["game", "action"],
+  },
+  {
+    term: "Tốc biến",
+    definition:
+      "Phép bổ trợ giúp dịch chuyển tức thời một đoạn ngắn. Kỹ năng quan trọng nhất trong MOBA.",
+    variation: ["Flash"],
+    example: "Pha tốc biến qua tường chạy trốn quá ảo.",
+    tags: ["game", "skill"],
+  },
+  {
+    term: "Cướp Rừng",
+    definition:
+      "Sang phần sân đối phương để ăn quái rừng, triệt hạ tài nguyên của địch.",
+    variation: ["Invade"],
+    example: "Đầu game kéo sang cướp bùa xanh của nó.",
+    tags: ["game", "strategy"],
+  },
+  {
+    term: "Đáy xã hội",
+    definition:
+      "Thuật ngữ vui chỉ vị trí Support (Hỗ trợ) hoặc Tanker vì hay bị chửi, ít được vinh danh dù đóng góp nhiều.",
+    variation: ["Support nghèo"],
+    example: "Phận SP đáy xã hội, hi sinh cho AD ăn mạng.",
+    tags: ["game", "funny"],
+  },
+  {
+    term: "Reroll",
+    definition:
+      "Tạo tài khoản mới và chơi lại đoạn đầu liên tục cho đến khi quay ra tướng/vật phẩm xịn (thường trong game Gacha/TFT).",
+    variation: ["Xoay tua"],
+    example: "Reroll 20 lần mới ra con tướng 5 sao.",
+    tags: ["game", "gacha"],
+  },
+  {
+    term: "Stack",
+    definition: "Tích số/Tích điểm nội tại để tăng sức mạnh.",
+    variation: ["Tích nội tại"],
+    example: "Nasus farm Q tích stack đến cuối game bổ một phát chết luôn.",
+    tags: ["game", "mechanic"],
+  },
+  {
+    term: "Nerf",
+    definition:
+      "Giảm sức mạnh tướng/trang bị trong bản cập nhật mới (do quá bá đạo).",
+    variation: ["Gõ đầu"],
+    example: "Con tủ của tao bị nerf thê thảm, phế luôn rồi.",
+    tags: ["game", "update"],
+  },
+  {
+    term: "Buff",
+    definition:
+      "Tăng sức mạnh tướng/trang bị, hoặc hiệu ứng có lợi (giáp, tốc chạy) từ đồng đội.",
+    variation: ["Tăng sm"],
+    example: "Đợt này Admin buff cho mấy con tướng pháp sư.",
+    tags: ["game", "update"],
+  },
+  {
+    term: "AOE",
+    definition: "Area of Effect. Kỹ năng gây sát thương trên diện rộng.",
+    variation: ["Sát thương diện rộng"],
+    example: "Né cái vòng AOE đỏ đỏ dưới đất ra.",
+    tags: ["game", "mechanic"],
+  },
+  {
+    term: "CC",
+    definition:
+      "Crowd Control. Hiệu ứng khống chế đám đông (làm choáng, trói, làm chậm...).",
+    variation: ["Khống chế"],
+    example: "Team bạn nhiều CC quá, không múa được.",
+    tags: ["game", "mechanic"],
+  },
+  {
+    term: "Cooldown",
+    definition: "Thời gian hồi chiêu.",
+    variation: ["CD", "Hồi chiêu"],
+    example: "Đừng lao lên, ulti tao đang cooldown.",
+    tags: ["game", "mechanic"],
+  },
+  {
+    term: "Outplay",
+    definition:
+      "Dùng kỹ năng vượt trội để đánh bại đối thủ dù đang ở thế yếu hơn.",
+    variation: ["Ao chình", "Lật kèo"],
+    example: "Pha outplay 1 chấp 2 không mất giọt máu nào.",
+    tags: ["game", "skill", "khen"],
+  },
 ];
