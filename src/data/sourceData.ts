@@ -5185,7 +5185,7 @@ export const TERMS: GenZTerm[] = [
   {
     term: "Vũ trụ",
     definition:
-      "Vú bự. Cách nói lái 18+ nhẹ nhàng dùng để trêu chọc hoặc miêu tả ngoại hình (cẩn thận khi dùng).",
+      "V* bự. Cách nói lái 18+ nhẹ nhàng dùng để trêu chọc hoặc miêu tả ngoại hình (cẩn thận khi dùng).",
     variation: ["V.bự"],
     example: "Em kia đúng chuẩn hệ vũ trụ.",
     tags: ["noilai", "slang", "body"],
@@ -5256,7 +5256,7 @@ export const TERMS: GenZTerm[] = [
   },
   {
     term: "Cặp vớ quá cũ",
-    definition: "Cặp vú quá cỡ",
+    definition: "Cặp v* quá cỡ",
     variation: ["Cũ quá"],
     example: "Cặp vớ quá cũ nhìn mê chữ ê kéo dài luôn.",
     tags: ["noilai", "funny"],
