@@ -8036,4 +8036,163 @@ export const TERMS: GenZTerm[] = [
     example: "Hai đứa nó yêu nhau dính như sam.",
     tags: ["thanhngu", "love"],
   },
+  // =================================================================
+  // BỔ SUNG: TỪ LÓNG DÂN DÃ, PHÓNG ĐẠI & PHƯƠNG NGỮ (HYPERBOLIC & REGIONAL SLANG)
+  // =================================================================
+  {
+    term: "Mút chỉ cà tha",
+    definition:
+      "Rất xa, rất lâu, không biết đâu là điểm dừng (thường dùng: đi mút chỉ, chơi mút chỉ). 'Mút chỉ' là hết cuộn chỉ, 'cà tha' là từ đệm mang ý nghĩa kéo dài mãi.",
+    variation: ["Mút chỉ", "Tít mù khơi"],
+    example: "Nó đi chơi mút chỉ cà tha mới chịu mò về.",
+    tags: ["slang", "dialects", "daily"],
+  },
+  {
+    term: "Mút mùa Lệ Thủy",
+    definition:
+      "Chỉ một khoảng thời gian rất dài, dường như vô tận, không biết bao giờ mới tới/xong.",
+    variation: ["Mút mùa"],
+    example: "Đợi mày trang điểm xong chắc tới mút mùa Lệ Thủy.",
+    tags: ["slang", "time", "funny"],
+  },
+  {
+    term: "Tết Congo",
+    definition:
+      "Một thời điểm không bao giờ xảy ra (vì Congo không ăn Tết Âm lịch như VN). Dùng để chỉ sự chờ đợi vô vọng.",
+    variation: ["Mùa quýt"],
+    example: "Nợ này chắc đến Tết Congo nó mới trả.",
+    tags: ["slang", "time", "sarcasm"],
+  },
+  {
+    term: "Xa lắc xa lơ",
+    definition:
+      "Rất xa (về khoảng cách địa lý) hoặc đã xảy ra từ rất lâu trong quá khứ.",
+    variation: ["Xa tít"],
+    example: "Chuyện đó xảy ra từ đời tám hoánh xa lắc xa lơ rồi.",
+    tags: ["slang", "distance", "time"],
+  },
+  {
+    term: "Tám hoánh",
+    definition: "Từ rất lâu rồi, xưa lắc xưa lơ, thuộc về quá khứ xa xôi.",
+    variation: ["Đời Tống"],
+    example: "Cái áo này mua từ đời tám hoánh nào rồi.",
+    tags: ["slang", "time", "old"],
+  },
+  {
+    term: "Trầy vi tróc vảy",
+    definition:
+      "Cực khổ, vất vả, chịu nhiều bầm dập mới làm xong được một việc gì đó (như con cá bị đánh tróc hết vảy).",
+    variation: ["Lên bờ xuống ruộng"],
+    example: "Chạy xong cái dự án này tao trầy vi tróc vảy.",
+    tags: ["idiom", "hardship", "work"],
+  },
+  {
+    term: "Lên bờ xuống ruộng",
+    definition: "Điêu đứng, khốn đốn, gặp nhiều gian nan thử thách liên tiếp.",
+    variation: ["Sống dở chết dở"],
+    example: "Bị sếp hành cho lên bờ xuống ruộng.",
+    tags: ["idiom", "hardship", "funny"],
+  },
+  {
+    term: "Banh ta lông",
+    definition:
+      "Tan nát, hỏng hóc hoàn toàn, không còn ra hình thù gì (thường dùng cho đồ vật hoặc tinh thần).",
+    variation: ["Banh chành", "Nát bét"],
+    example: "Cái điện thoại rớt xuống đất banh ta lông luôn.",
+    tags: ["slang", "state", "fail"],
+  },
+  {
+    term: "Trớt quớt",
+    definition:
+      "Lạc quẻ, không liên quan, trôi tuột đi hoặc lãng xẹt (thường dùng khi ai đó trả lời sai ý hoặc đùa nhạt).",
+    variation: ["Lãng xẹt", "Trật lất"],
+    example: "Hỏi một đằng trả lời một nẻo, trớt quớt à.",
+    tags: ["slang", "dialects", "funny"],
+  },
+  {
+    term: "Cùi bắp",
+    definition: "Kém chất lượng, dở tệ, lạc hậu hoặc trình độ thấp.",
+    variation: ["Cùi mía", "Gà"],
+    example: "Máy tính cùi bắp quá, lag không chơi được.",
+    tags: ["slang", "bad", "quality"],
+  },
+  {
+    term: "Cà chớn",
+    definition:
+      "Tính khí thất thường, hay đùa giỡn nhảm nhí hoặc cư xử không đàng hoàng (tùy ngữ cảnh có thể là mắng yêu hoặc chửi thật).",
+    variation: ["Cà hẩy"],
+    example: "Thằng đó tính cà chớn lắm, đừng tin nó.",
+    tags: ["slang", "dialects", "personality"],
+  },
+  {
+    term: "Tới nái",
+    definition:
+      "Đến nơi đến chốn, hết mức có thể, cực kỳ đã (thường dùng: chơi tới nái, đẹp tới nái, quậy tới nái).",
+    variation: ["Tới bến"],
+    example: "Hôm nay lãnh lương, đi nhậu tới nái luôn.",
+    tags: ["slang", "degree", "party"],
+  },
+  {
+    term: "Bể dĩa",
+    definition:
+      "Hỏng kế hoạch, vỡ lở, không thực hiện được như dự định ban đầu.",
+    variation: ["Bể kèo", "Toang"],
+    example: "Đang định đi Vũng Tàu thì trời mưa, bể dĩa.",
+    tags: ["slang", "fail", "plan"],
+  },
+  {
+    term: "Xì ke",
+    definition:
+      "Gầy gò, ốm yếu (như người nghiện). Hoặc dùng để chê món đồ gì đó trông tệ hại (lưu ý: từ này hơi nhạy cảm).",
+    variation: ["Ốm nhom"],
+    example: "Nhìn mày dạo này xì ke thế, chịu khó ăn vào.",
+    tags: ["slang", "body", "sensitive"],
+  },
+  {
+    term: "Chua lè",
+    definition:
+      "Rất chua (nghĩa đen). Nghĩa bóng: Rất khó khăn, khó nhằn, khó giải quyết.",
+    variation: ["Chua loét"],
+    example: "Đề thi năm nay chua lè chua loét.",
+    tags: ["slang", "difficulty"],
+  },
+  {
+    term: "Tối hù",
+    definition:
+      "Tối om, không thấy gì. Nghĩa bóng: Mù mịt, không có tương lai.",
+    variation: ["Tối thui"],
+    example: "Tương lai đen tối hù như tiền đồ chị Dậu.",
+    tags: ["slang", "state", "bad"],
+  },
+  {
+    term: "Mè nheo",
+    definition:
+      "Nhõng nhẽo, khóc lóc dai dẳng để đòi hỏi cái gì đó (thường dùng cho trẻ con hoặc người yêu bánh bèo).",
+    variation: ["Nhõng nhẽo"],
+    example: "Lớn rồi đừng có mè nheo nữa.",
+    tags: ["daily", "action"],
+  },
+  {
+    term: "Lề mề",
+    definition: "Chậm chạp, làm việc gì cũng rề rà, tốn thời gian.",
+    variation: ["Chậm như rùa"],
+    example: "Nhanh cái chân lên, lề mề quá trễ giờ bây giờ.",
+    tags: ["daily", "bad", "speed"],
+  },
+  {
+    term: "Cà tưng",
+    definition:
+      "Tưng tửng, lúc vui lúc buồn, hơi hâm hấp hoặc nhảy nhót lung tung (như lò xo).",
+    variation: ["Tưng tửng"],
+    example: "Cái xe này bị cà tưng, lúc nổ máy lúc không.",
+    tags: ["slang", "state"],
+  },
+  {
+    term: "Bá cháy bọ chét",
+    definition:
+      "Cực kỳ ngon, cực kỳ tuyệt vời (cách nói láy vần điệu cũ nhưng vẫn vui tai).",
+    variation: ["Bá cháy"],
+    example: "Món này chấm với nước sốt thì bá cháy bọ chét.",
+    tags: ["slang", "khen", "old-school"],
+  },
 ];
