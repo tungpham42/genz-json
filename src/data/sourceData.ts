@@ -7806,4 +7806,234 @@ export const TERMS: GenZTerm[] = [
     example: "Pha outplay 1 chấp 2 không mất giọt máu nào.",
     tags: ["game", "skill", "khen"],
   },
+  // =================================================================
+  // BỔ SUNG: THÀNH NGỮ & CỤM TỪ LÓNG SỐ TỪ (IDIOMS & NUMBERS)
+  // =================================================================
+  {
+    term: "Vào ba ra bảy",
+    definition:
+      "Nói năng lung tung, không nhất quán, chuyện nọ xọ chuyện kia hoặc nói những điều vô nghĩa.",
+    variation: ["Nói hươu nói vượn"],
+    example: "Nó say rồi nên nói năng vào ba ra bảy, đừng chấp.",
+    tags: ["thanhngu", "daily", "funny"],
+  },
+  {
+    term: "Năm lần bảy lượt",
+    definition:
+      "Rất nhiều lần (thường mang ý trách móc vì hứa hẹn nhưng không làm hoặc trì hoãn).",
+    variation: ["7749 lần"],
+    example: "Hẹn đi cafe mà năm lần bảy lượt bùng kèo.",
+    tags: ["thanhngu", "daily", "complain"],
+  },
+  {
+    term: "7749",
+    definition:
+      "Bảy bảy bốn chín. Con số biểu tượng cho sự 'rất nhiều', 'vô số kể' (thường dùng cho các kiếp nạn hoặc các bước skincare/makeup).",
+    variation: ["Sương sương"],
+    example: "Trải qua 7749 kiếp nạn mới đến được công ty.",
+    tags: ["slang", "number", "funny"],
+  },
+  {
+    term: "Lên voi xuống chó",
+    definition:
+      "Cuộc đời thăng trầm, lúc vinh quang tột đỉnh, lúc thất bại thảm hại.",
+    variation: ["Ba chìm bảy nổi"],
+    example: "Đời người ai chẳng có lúc lên voi xuống chó.",
+    tags: ["thanhngu", "lifestyle"],
+  },
+  {
+    term: "Được ăn cả ngã về không",
+    definition:
+      "Liều lĩnh, đánh cược tất cả, một là thành công lớn, hai là mất trắng (All-in).",
+    variation: ["Tất tay", "All in"],
+    example: "Vụ này tao quyết tất tay, được ăn cả ngã về không.",
+    tags: ["thanhngu", "invest", "risk"],
+  },
+  {
+    term: "Vừa ăn cướp vừa la làng",
+    definition:
+      "Kẻ làm sai nhưng lại lu loa, đóng vai nạn nhân để đổ lỗi cho người khác (Gaslighting kiểu dân gian).",
+    variation: ["Giả nai"],
+    example:
+      "Nó đụng xe mình rồi còn quát mình, đúng là vừa ăn cướp vừa la làng.",
+    tags: ["thanhngu", "bad", "behavior"],
+  },
+  {
+    term: "Ông nói gà bà nói vịt",
+    definition: "Hai người nói chuyện không hiểu ý nhau, mỗi người một nẻo.",
+    variation: ["Lệch sóng"],
+    example: "Cãi nhau cả buổi hóa ra ông nói gà bà nói vịt.",
+    tags: ["thanhngu", "fail", "communication"],
+  },
+  {
+    term: "Cầm đèn chạy trước ô tô",
+    definition:
+      "Hấp tấp, vội vàng làm việc khi chưa đến lượt hoặc chưa suy nghĩ kỹ, thường gây hậu quả ngớ ngẩn.",
+    variation: ["Lanh chanh"],
+    example: "Chưa ai hỏi mà đã trả lời, đúng là cầm đèn chạy trước ô tô.",
+    tags: ["thanhngu", "bad", "action"],
+  },
+  {
+    term: "Múa rìu qua mắt thợ",
+    definition: "Khoe khoang kỹ năng trước mặt người giỏi hơn mình rất nhiều.",
+    variation: ["Thể hiện"],
+    example: "Đừng múa rìu qua mắt thợ, anh ấy là chuyên gia đấy.",
+    tags: ["thanhngu", "warning"],
+  },
+  {
+    term: "Thùng rỗng kêu to",
+    definition:
+      "Người không có tài năng, kiến thức nhưng lại hay khoe khoang, nói nhiều.",
+    variation: ["Nổ"],
+    example: "Mấy đứa hay gáy thường là thùng rỗng kêu to.",
+    tags: ["thanhngu", "nhanxet"],
+  },
+  {
+    term: "Chó ngáp phải ruồi",
+    definition:
+      "May mắn tình cờ đạt được thành công chứ không phải do tài năng thực sự.",
+    variation: ["Ăn may"],
+    example: "Trúng số độc đắc đúng là chó ngáp phải ruồi.",
+    tags: ["thanhngu", "funny", "luck"],
+  },
+  {
+    term: "Vạch lá tìm sâu",
+    definition: "Cố tình soi mói, tìm kiếm lỗi lầm nhỏ nhặt của người khác.",
+    variation: ["Bới lông tìm vết"],
+    example: "Sếp này tính hay vạch lá tìm sâu, nhân viên áp lực lắm.",
+    tags: ["thanhngu", "work", "bad"],
+  },
+  {
+    term: "Ném đá giấu tay",
+    definition:
+      "Làm việc xấu ngầm, hãm hại người khác nhưng giấu mặt, giả vờ vô tội.",
+    variation: ["Tiểu nhân"],
+    example: "Cẩn thận với mấy đứa ném đá giấu tay trong văn phòng.",
+    tags: ["thanhngu", "bad", "drama"],
+  },
+  {
+    term: "Chị ngã em nâng",
+    definition:
+      "Tình chị em đoàn kết giúp đỡ nhau. Tuy nhiên trên mạng xã hội hay dùng để chế giễu những cặp chị em 'thân ai nấy lo' hoặc chơi xấu nhau.",
+    variation: ["Chị em cây khế"],
+    example: "Chị ngã em nâng hay là chị ngã em cười?",
+    tags: ["thanhngu", "friend", "meme"],
+  },
+  {
+    term: "Thêm dầu vào lửa",
+    definition: "Làm cho sự việc, mâu thuẫn trở nên gay gắt hơn.",
+    variation: ["Đổ thêm dầu"],
+    example: "Đang cãi nhau mày đừng có thêm dầu vào lửa nữa.",
+    tags: ["thanhngu", "drama"],
+  },
+  {
+    term: "Gắp lửa bỏ tay người",
+    definition: "Vu khống, đổ tội cho người khác một cách trắng trợn.",
+    variation: ["Vu oan"],
+    example: "Nó dám gắp lửa bỏ tay người, đổ hết tội lỗi lên đầu tao.",
+    tags: ["thanhngu", "bad", "drama"],
+  },
+  {
+    term: "Ăn cháo đá bát",
+    definition: "Vô ơn, bội bạc với người đã giúp đỡ mình.",
+    variation: ["Qua cầu rút ván"],
+    example: "Loại người ăn cháo đá bát không có kết cục tốt đâu.",
+    tags: ["thanhngu", "bad", "karma"],
+  },
+  {
+    term: "Im như thóc",
+    definition: "Giữ im lặng tuyệt đối, không dám ho he.",
+    variation: ["Im thin thít"],
+    example: "Bị cô giáo hỏi bài cũ, cả lớp im như thóc.",
+    tags: ["thanhngu", "school"],
+  },
+  {
+    term: "Vắng như chùa Bà Đanh",
+    definition: "Rất vắng vẻ, không một bóng người.",
+    variation: ["Hiu quạnh"],
+    example: "Quán cafe hôm nay vắng như chùa Bà Đanh.",
+    tags: ["thanhngu", "daily"],
+  },
+  {
+    term: "Của thiên trả địa",
+    definition:
+      "Tiền bạc kiếm được một cách dễ dàng/bất chính thì cũng sẽ mất đi nhanh chóng.",
+    variation: ["Của thiên trả địa"],
+    example: "Tiền trúng số rồi cũng của thiên trả địa thôi.",
+    tags: ["thanhngu", "money", "karma"],
+  },
+  {
+    term: "Tiền trảm hậu tấu",
+    definition: "Làm trước rồi mới báo cáo sau (thường là làm liều).",
+    variation: ["Làm trước báo sau"],
+    example: "Vụ này gấp quá nên phải tiền trảm hậu tấu.",
+    tags: ["thanhngu", "work", "action"],
+  },
+  {
+    term: "Khẩu phật tâm xà",
+    definition:
+      "Miệng nói lời từ bi nhưng trong lòng thâm độc (tương tự 'Phật online').",
+    variation: ["Giả tạo"],
+    example: "Sợ nhất mấy người khẩu phật tâm xà.",
+    tags: ["thanhngu", "bad", "fake"],
+  },
+  {
+    term: "Bình cũ rượu mới",
+    definition:
+      "Hình thức bên ngoài cũ kỹ nhưng nội dung bên trong đã thay đổi (hoặc ngược lại: Hình thức mới nhưng nội dung vẫn cũ rích).",
+    variation: ["Làm mới"],
+    example: "Game này chỉ là bình cũ rượu mới, chẳng có gì đột phá.",
+    tags: ["thanhngu", "review"],
+  },
+  {
+    term: "Chín bỏ làm mười",
+    definition: "Bỏ qua lỗi lầm nhỏ nhặt, xí xóa cho nhau để giữ hòa khí.",
+    variation: ["Xí xóa"],
+    example: "Thôi anh em chín bỏ làm mười, giận nhau làm gì.",
+    tags: ["thanhngu", "daily", "forgive"],
+  },
+  {
+    term: "Ba mặt một lời",
+    definition: "Gặp nhau trực tiếp để đối chất, làm rõ trắng đen.",
+    variation: ["Đối chất"],
+    example: "Hẹn nó ra đây ba mặt một lời cho rõ ràng.",
+    tags: ["thanhngu", "drama", "action"],
+  },
+  {
+    term: "Lành ít dữ nhiều",
+    definition:
+      "Dự báo điềm xấu, khả năng thất bại hoặc gặp nguy hiểm rất cao.",
+    variation: ["Điềm gở"],
+    example: "Nhìn sắc mặt sếp là biết chuyến này lành ít dữ nhiều.",
+    tags: ["thanhngu", "warning"],
+  },
+  {
+    term: "Tránh vỏ dưa gặp vỏ dừa",
+    definition: "Thoát khỏi rắc rối này lại gặp rắc rối khác lớn hơn.",
+    variation: ["Xui xẻo"],
+    example:
+      "Vừa chia tay trai hư lại gặp ngay trai gia trưởng, đúng là tránh vỏ dưa gặp vỏ dừa.",
+    tags: ["thanhngu", "bad", "love"],
+  },
+  {
+    term: "Một vốn bốn lời",
+    definition: "Kinh doanh siêu lợi nhuận.",
+    variation: ["Lãi to"],
+    example: "Bán trà đá vỉa hè đúng là một vốn bốn lời.",
+    tags: ["thanhngu", "business"],
+  },
+  {
+    term: "Tiền khô cháy túi",
+    definition: "Hết sạch tiền, nghèo kiết xác.",
+    variation: ["Viêm màng túi"],
+    example: "Cuối tháng tiền khô cháy túi, ăn mì tôm cầm hơi.",
+    tags: ["thanhngu", "money"],
+  },
+  {
+    term: "Dính như sam",
+    definition: "Lúc nào cũng ở bên cạnh nhau, không rời nửa bước.",
+    variation: ["Bám đuôi"],
+    example: "Hai đứa nó yêu nhau dính như sam.",
+    tags: ["thanhngu", "love"],
+  },
 ];
