@@ -8195,4 +8195,215 @@ export const TERMS: GenZTerm[] = [
     example: "Món này chấm với nước sốt thì bá cháy bọ chét.",
     tags: ["slang", "khen", "old-school"],
   },
+  // =================================================================
+  // BỔ SUNG: TỪ VÔ TRI, SỐ HỌC & BRAINROT (NONSENSE & NUMBERS)
+  // =================================================================
+  {
+    term: "67",
+    definition:
+      "Một từ lóng 'vô tri' (brainrot) nổi đình đám của Gen Z và Gen Alpha năm 2025. Nó thường được dùng để trả lời bâng quơ cho mọi câu hỏi mà không cần logic, hoặc mang ý nghĩa là 'bình thường', 'tạm ổn', 'không có gì đặc sắc' (meh). Bắt nguồn từ meme 'The 67 Kid' và bài hát của rapper Skrilla.",
+    variation: ["Six seven", "6-7"],
+    example: "- Dạo này công việc thế nào? - 67 thôi. (Ý là bình thường, chả có gì mới)",
+    tags: ["brainrot", "votri", "trend"],
+  },
+  {
+    term: "8386",
+    definition:
+      "Phát tài phát lộc. Con số phong thủy được giới trẻ dùng để chúc nhau (hoặc dùng mỉa mai khi mất tiền/thua game).",
+    variation: ["Tài lộc", "Mãi đỉnh"],
+    example: "Chúc anh em 8386, xem live vui vẻ.",
+    tags: ["number", "fengshui", "livestream"],
+  },
+  {
+    term: "4953",
+    definition:
+      "Hạn nặng (49 chưa qua 53 đã tới). Ám chỉ sự xui xẻo tột độ, combo tai họa ập đến.",
+    variation: ["Xui tận mạng"],
+    example: "Hôm nay đúng là ngày 4953, làm gì cũng hỏng.",
+    tags: ["number", "bad", "daily"],
+  },
+  {
+    term: "6789",
+    definition:
+      "San bằng tất cả (Số tiến). Thể hiện sự bá đạo, không sợ gì cả, hoặc sự thăng tiến vượt bậc.",
+    variation: ["Sống bằng tình cảm"],
+    example: "Anh em mình là 6789, chơi tới bến.",
+    tags: ["number", "slang", "rhyme"],
+  },
+  {
+    term: "9 xu",
+    definition:
+      "Kém sang, giá trị thấp, hoặc tính cách bần tiện, cư xử không ra gì (Dưới cả 1 hào).",
+    variation: ["Chin xu", "Kém"],
+    example: "Cư xử 9 xu thế thì ai chơi lại.",
+    tags: ["number", "nhanxet", "bad"],
+  },
+  {
+    term: "Âm điểm",
+    definition:
+      "Tệ hại, không còn gì để nói, dưới mức trung bình (Ngược lại với 10 điểm).",
+    variation: ["Về chỗ"],
+    example: "Pha xử lý đi vào lòng đất, âm điểm về chỗ.",
+    tags: ["number", "nhanxet", "funny"],
+  },
+  {
+    term: "2204",
+    definition:
+      "Mãi mãi không chết (Bất tử). Thường dùng trong game hoặc để cổ vũ tinh thần một cách hài hước.",
+    variation: ["Bất tử"],
+    example: "Tinh thần chiến binh 2204.",
+    tags: ["number", "game"],
+  },
+  {
+    term: "520",
+    definition:
+      "Anh yêu em (Tiếng Trung: Wǔ'èrlíng ~ Wo ai ni). Mật mã tình yêu phổ biến.",
+    variation: ["I love you"],
+    example: "Gửi 520 tới crush xem nó có hiểu không.",
+    tags: ["number", "love", "code"],
+  },
+  {
+    term: "1314",
+    definition:
+      "Trọn đời trọn kiếp (Tiếng Trung: Yīsān yīsì ~ Yīshēng yīshì). Thường đi kèm 520.",
+    variation: ["Một đời một kiếp"],
+    example: "Hứa yêu em 1314.",
+    tags: ["number", "love", "code"],
+  },
+  {
+    term: "Skibidi",
+    definition:
+      "Từ vô nghĩa bắt nguồn từ meme 'Skibidi Toilet'. Dùng để chỉ cái gì đó quái dị, hỗn loạn, hoặc đơn giản là nói cho vui mồm (Brainrot).",
+    variation: ["Skibidi dop dop"],
+    example: "Nhạc gì nghe Skibidi thế?",
+    tags: ["meme", "brainrot", "votri"],
+  },
+  {
+    term: "Mewing",
+    definition:
+      "Bài tập đặt lưỡi lên vòm họng để có xương hàm đẹp. Trên mạng, nó là hành động đưa ngón tay lên miệng ra hiệu 'im lặng' để tỏ vẻ ngầu (Sigma).",
+    variation: ["Bye bye"],
+    example: "Đừng hỏi nữa, tao đang mewing.",
+    tags: ["meme", "action", "trend"],
+  },
+  {
+    term: "Oliu",
+    definition:
+      "Hello (Xin chào). Cách phát âm ẹo, chảy nước, cố tỏ ra dễ thương (hoặc trêu chọc sự dễ thương đó).",
+    variation: ["Hế lô"],
+    example: "Oliu mọi người, em mới tới.",
+    tags: ["votri", "greeting", "cute"],
+  },
+  {
+    term: "Pí pù",
+    definition:
+      "Mô phỏng tiếng còi xe cảnh sát hoặc xe cấp cứu. Dùng khi có biến, hoặc ám chỉ ai đó sắp bị 'bế' đi.",
+    variation: ["Pí po"],
+    example: "Pí pù pí pù, cảnh sát chính tả tới đây.",
+    tags: ["votri", "sound", "meme"],
+  },
+  {
+    term: "Cí",
+    definition:
+      "Cái gì? (Cái gì -> Cái í -> Cí). Cách hỏi ngây ngô, tỏ vẻ không hiểu hoặc bất ngờ.",
+    variation: ["Cái gì cơ"],
+    example: "Cí? Nói lại nghe coi?",
+    tags: ["votri", "question"],
+  },
+  {
+    term: "Mèo méo meo",
+    definition:
+      "Tiếng mèo kêu, hoặc bài hát 'Mèo méo meo mèo meo'. Dùng để làm nũng hoặc trêu ngươi người khác (meme Trần Đức Bo).",
+    variation: ["Meow"],
+    example: "Lại định mèo méo meo để xin tiền hả?",
+    tags: ["meme", "sound", "funny"],
+  },
+  {
+    term: "Bộp bộp",
+    definition:
+      "Tiếng vỗ tay hoặc tiếng đánh (nghĩa bóng). Dùng để khen ngợi một cách hời hợt hoặc mô tả hành động 'tác động vật lý'.",
+    variation: ["Vỗ tay"],
+    example: "Hay quá, bộp bộp.",
+    tags: ["votri", "sound"],
+  },
+  {
+    term: "Wiu wiu",
+    definition:
+      "Tiếng còi báo động hoặc tiếng trêu chọc (kiểu huýt sáo).",
+    variation: ["U u"],
+    example: "Trai đẹp kìa, wiu wiu.",
+    tags: ["votri", "sound"],
+  },
+  {
+    term: "Tứn",
+    definition:
+      "Tức. (Tức -> Tứn). Cách nói ngọng, tỏ vẻ giận dỗi đáng yêu.",
+    variation: ["Tức á"],
+    example: "Nói mãi không hiểu, tứn ghê á.",
+    tags: ["votri", "teencode"],
+  },
+  {
+    term: "Mai - đẹt",
+    definition:
+      "My Dad (Bố tôi)? Không, là cách đọc phiên âm hài hước của 'My bad' (Lỗi tôi) hoặc chỉ đơn giản là tiếng kêu vô tri.",
+    variation: ["Lỗi tui"],
+    example: "Ok ok, mai đẹt, xin lỗi được chưa.",
+    tags: ["votri", "english"],
+  },
+  {
+    term: "Gì zậy trời",
+    definition:
+      "Câu than vãn với tông giọng cao vút, thể hiện sự bất lực toàn tập (biến thể của 'Gì vậy bà nội').",
+    variation: ["J z tr"],
+    example: "Đi ăn mà quên mang ví, gì zậy trời?",
+    tags: ["camthan", "votri"],
+  },
+  {
+    term: "Cứu",
+    definition:
+      "Cứu tôi với. Nhưng nói cộc lốc là 'Cứu' để tăng độ hài hước và gấp gáp.",
+    variation: ["Help"],
+    example: "Pha này thì Cứu, không ai đỡ được.",
+    tags: ["camthan", "votri"],
+  },
+  {
+    term: "Lala la",
+    definition:
+      "Giả vờ điếc, không nghe thấy gì, hát vu vơ để lảng tránh vấn đề.",
+    variation: ["Lơ đi"],
+    example: "Nhắc đến trả nợ là nó lala la ngay.",
+    tags: ["action", "funny"],
+  },
+  {
+    term: "Xì trum",
+    definition:
+      "Từ thay thế cho bất kỳ động từ/tính từ nào (như trong phim Xì Trum). Dùng khi bí từ hoặc muốn nói giảm nói tránh.",
+    variation: ["Ấy ấy"],
+    example: "Hôm nay nhìn mày xì trum thế.",
+    tags: ["votri", "funny"],
+  },
+  {
+    term: "Bịt mồm",
+    definition:
+      "Icon/Hành động che miệng cười (🤭). Dùng khi thấy cái gì đó buồn cười nhưng cố tỏ ra lịch sự (thực ra là đang cười đểu).",
+    variation: ["Che miệng"],
+    example: "Thấy nó ngã mà tao phải bịt mồm cười.",
+    tags: ["action", "reaction"],
+  },
+  {
+    term: "Ú òa",
+    definition:
+      "Hù. Trò chơi trốn tìm, hoặc ám chỉ việc biến mất rồi xuất hiện bất ngờ làm người khác giật mình (như bài hát của Mono).",
+    variation: ["Peekaboo"],
+    example: "Đang đợi lương thì sếp ú òa trừ tiền phạt.",
+    tags: ["meme", "music", "action"],
+  },
+  {
+    term: "Khoanh tay",
+    definition:
+      "Hành động ngoan ngoãn (hoặc giả vờ ngoan). 'Khoanh tay xin lỗi mẹ đi'.",
+    variation: ["Xin lỗi"],
+    example: "Biết lỗi chưa? Khoanh tay lại!",
+    tags: ["action", "family"],
+  }s
 ];
