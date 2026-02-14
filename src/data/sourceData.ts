@@ -8203,7 +8203,8 @@ export const TERMS: GenZTerm[] = [
     definition:
       "Một từ lóng 'vô tri' (brainrot) nổi đình đám của Gen Z và Gen Alpha năm 2025. Nó thường được dùng để trả lời bâng quơ cho mọi câu hỏi mà không cần logic, hoặc mang ý nghĩa là 'bình thường', 'tạm ổn', 'không có gì đặc sắc' (meh). Bắt nguồn từ meme 'The 67 Kid' và bài hát của rapper Skrilla.",
     variation: ["Six seven", "6-7"],
-    example: "- Dạo này công việc thế nào? - 67 thôi. (Ý là bình thường, chả có gì mới)",
+    example:
+      "- Dạo này công việc thế nào? - 67 thôi. (Ý là bình thường, chả có gì mới)",
     tags: ["brainrot", "votri", "trend"],
   },
   {
@@ -8328,16 +8329,14 @@ export const TERMS: GenZTerm[] = [
   },
   {
     term: "Wiu wiu",
-    definition:
-      "Tiếng còi báo động hoặc tiếng trêu chọc (kiểu huýt sáo).",
+    definition: "Tiếng còi báo động hoặc tiếng trêu chọc (kiểu huýt sáo).",
     variation: ["U u"],
     example: "Trai đẹp kìa, wiu wiu.",
     tags: ["votri", "sound"],
   },
   {
     term: "Tứn",
-    definition:
-      "Tức. (Tức -> Tứn). Cách nói ngọng, tỏ vẻ giận dỗi đáng yêu.",
+    definition: "Tức. (Tức -> Tứn). Cách nói ngọng, tỏ vẻ giận dỗi đáng yêu.",
     variation: ["Tức á"],
     example: "Nói mãi không hiểu, tứn ghê á.",
     tags: ["votri", "teencode"],
@@ -8405,5 +8404,5 @@ export const TERMS: GenZTerm[] = [
     variation: ["Xin lỗi"],
     example: "Biết lỗi chưa? Khoanh tay lại!",
     tags: ["action", "family"],
-  }s
+  },
 ];
