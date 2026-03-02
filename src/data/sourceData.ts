@@ -8405,4 +8405,13 @@ export const TERMS: GenZTerm[] = [
     example: "Biết lỗi chưa? Khoanh tay lại!",
     tags: ["action", "family"],
   },
+  {
+    term: "HDPE thì ngon luôn",
+    definition:
+      "Câu nói viral bắt nguồn từ một video chia sẻ khởi nghiệp trên TikTok dịp cuối năm 2025. Cụm từ được giới trẻ dùng như một meme vạn năng để khẳng định một quyết định chắc chắn, một 'kèo thơm', hoặc dùng như một câu đùa 'vô tri' trong nhiều hoàn cảnh.",
+    variation: ["Làm HDPE là ngon luôn", "HDPE là ngon luôn"],
+    example:
+      "Tầm này không yêu đương gì hết, đầu tư vào bản thân là HDPE thì ngon luôn.",
+    tags: ["meme", "trend", "kinhdoanh", "votri"],
+  },
 ];
